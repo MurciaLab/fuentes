@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "name": "Murcia_Este",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 2881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.032581,
+          38.012334
+        ]
+      },
+      "properties": {
+        "id": 2881,
+        "nombre": "Jardín Francisco José Vicente Ortega",
+        "pedania": "Alquerías",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Alquerías | Tipo: Zona Verde | ID: 2881 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069258,
+          37.973529
+        ]
+      },
+      "properties": {
+        "id": 2740,
+        "nombre": "Jardín Monteazahar",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2740 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073485,
+          37.97244
+        ]
+      },
+      "properties": {
+        "id": 2746,
+        "nombre": "Jardín José Palma Moraga - Club 3ª Edad",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2746 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.083927,
+          37.985376
+        ]
+      },
+      "properties": {
+        "id": 2751,
+        "nombre": "Jardín Rincón de Villanueva",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2751 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06388,
+          37.965888
+        ]
+      },
+      "properties": {
+        "id": 2803,
+        "nombre": "El Bojar (Escuelas-Zona Baja)",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2803 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073949,
+          37.977412
+        ]
+      },
+      "properties": {
+        "id": 2828,
+        "nombre": "Jardín Luciano Nicolás Hernández - Urb. Los Naranjos",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2828 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.086226,
+          38.04538
+        ]
+      },
+      "properties": {
+        "id": 2908,
+        "nombre": "Jardín Camino Flora. El Campillo",
+        "pedania": "El Esparragal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: El Esparragal | Tipo: Zona Verde | ID: 2908 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085576,
+          38.046605
+        ]
+      },
+      "properties": {
+        "id": 2912,
+        "nombre": "Jardín Camino La Yesera. El Campillo",
+        "pedania": "El Esparragal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: El Esparragal | Tipo: Zona Verde | ID: 2912 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.026809,
+          38.041415
+        ]
+      },
+      "properties": {
+        "id": 2455,
+        "nombre": "Centro Cultural",
+        "pedania": "El Raal",
+        "tipo": "Zonas Verdes Otros Servicios",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: El Raal | Tipo: Zonas Verdes Otros Servicios | ID: 2455 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069453,
+          38.005602
+        ]
+      },
+      "properties": {
+        "id": 2589,
+        "nombre": "Ángel López Nicolás",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2589 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069498,
+          38.004539
+        ]
+      },
+      "properties": {
+        "id": 2589,
+        "nombre": "Ángel López Nicolás",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2589 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.056344,
+          38.002449
+        ]
+      },
+      "properties": {
+        "id": 2642,
+        "nombre": "Plaza Padre Clemente",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2642 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069869,
+          38.009758
+        ]
+      },
+      "properties": {
+        "id": 2648,
+        "nombre": "Zona Verde Acequia Aljada",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2648 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.070378,
+          38.007043
+        ]
+      },
+      "properties": {
+        "id": 2678,
+        "nombre": "Jardín Avenida Silva Muñoz",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2678 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.095811,
+          38.019059
+        ]
+      },
+      "properties": {
+        "id": 2960,
+        "nombre": "Zona Verde Avenida Constitución",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2960 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098351,
+          38.023961
+        ]
+      },
+      "properties": {
+        "id": 2974,
+        "nombre": "Jardín Plaza La Cruz",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2974 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089016,
+          38.022874
+        ]
+      },
+      "properties": {
+        "id": 2976,
+        "nombre": "Jardín Vereda de la Cueva",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2976 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098333,
+          38.017705
+        ]
+      },
+      "properties": {
+        "id": 2997,
+        "nombre": "Jardín Iglesia Ntra. Sra. de la Antigua",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2997 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.101091,
+          37.993249
+        ]
+      },
+      "properties": {
+        "id": 2598,
+        "nombre": "Plaza Artesanos del Belén",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 2598 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.101824,
+          37.992154
+        ]
+      },
+      "properties": {
+        "id": 2603,
+        "nombre": "Zona Verde Calle Sol",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 2603 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.102974,
+          37.995276
+        ]
+      },
+      "properties": {
+        "id": 2653,
+        "nombre": "Plaza Tomás y Valiente",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 2653 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098476,
+          37.993443
+        ]
+      },
+      "properties": {
+        "id": 3511,
+        "nombre": "Zeca Calle Gallegos-Concordia",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 3511 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.104326,
+          37.993369
+        ]
+      },
+      "properties": {
+        "id": 4578,
+        "nombre": "Plaza Juan Molina Olivero",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 4578 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.080733,
+          37.968577
+        ]
+      },
+      "properties": {
+        "id": 2869,
+        "nombre": "Jardín Sebastián Gálvez Arce",
+        "pedania": "San José de la Vega",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: San José de la Vega | Tipo: Zona Verde | ID: 2869 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.049728,
+          38.018812
+        ]
+      },
+      "properties": {
+        "id": 2957,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Santa Cruz",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Santa Cruz | Tipo: Zona Verde | ID: 2957 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.050086,
+          38.019058
+        ]
+      },
+      "properties": {
+        "id": 2958,
+        "nombre": "Plaza Sigifredo Hernández Pérez",
+        "pedania": "Santa Cruz",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Santa Cruz | Tipo: Zona Verde | ID: 2958 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.050089,
+          38.018845
+        ]
+      },
+      "properties": {
+        "id": 3665,
+        "nombre": "Zona Verde Calle Mayor",
+        "pedania": "Santa Cruz",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Santa Cruz | Tipo: Zona Verde | ID: 3665 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.057121,
+          37.976597
+        ]
+      },
+      "properties": {
+        "id": 2570,
+        "nombre": "Jardín Montegrande",
+        "pedania": "Torreagüera",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Torreagüera | Tipo: Zona Verde | ID: 2570 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.053711,
+          37.989156
+        ]
+      },
+      "properties": {
+        "id": 4079,
+        "nombre": "Campo de Fútbol",
+        "pedania": "Torreagüera",
+        "tipo": "Zonas Verdes Otros Servicios",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Torreagüera | Tipo: Zonas Verdes Otros Servicios | ID: 4079 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.115753,
+          38.003525
+        ]
+      },
+      "properties": {
+        "id": 2510,
+        "nombre": "Jardín San Félix de Cantalicio",
+        "pedania": "Zarandona",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Zarandona | Tipo: Zona Verde | ID: 2510 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.114468,
+          38.006469
+        ]
+      },
+      "properties": {
+        "id": 2515,
+        "nombre": "Jardín Los Geranios",
+        "pedania": "Zarandona",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Zarandona | Tipo: Zona Verde | ID: 2515 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    }
+  ]
+}

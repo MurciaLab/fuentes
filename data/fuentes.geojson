@@ -1,0 +1,4053 @@
+{
+  "type": "FeatureCollection",
+  "name": "fuentes_todas_las_zonas",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.149001,
+          37.996572
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "nombre": "Jardín Bendame Menor",
+        "pedania": "El Ranero",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: El Ranero | Tipo: Zona Verde | ID: 225 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.148985,
+          37.996125
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "nombre": "Jardín Bendame Menor",
+        "pedania": "El Ranero",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: El Ranero | Tipo: Zona Verde | ID: 225 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.150258,
+          38.000608
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "nombre": "Zona Verde Campo Fútbol",
+        "pedania": "El Ranero",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: El Ranero | Tipo: Zona Verde | ID: 232 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.130782,
+          37.98335
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "nombre": "Plaza Glorieta de España",
+        "pedania": "La Catedral",
+        "tipo": "Osmosis Fría",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: La Catedral | Tipo: Osmosis Fría | ID: 39 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13785,
+          37.98617
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "nombre": "Plaza San Agustín",
+        "pedania": "San Andrés",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Andrés | Tipo: Zona Verde | ID: 197 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.140737,
+          37.987746
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "nombre": "Jardín Mariano Montesinos",
+        "pedania": "San Andrés",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Andrés | Tipo: Zona Verde | ID: 200 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134361,
+          37.982785
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "nombre": "Jardín del Malecón",
+        "pedania": "San Antolín",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antolín | Tipo: Zona Verde | ID: 64 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136988,
+          37.98282
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "nombre": "Jardín del Malecón",
+        "pedania": "San Antolín",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antolín | Tipo: Zona Verde | ID: 64 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136918,
+          37.982337
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "nombre": "Jardín del Malecón",
+        "pedania": "San Antolín",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antolín | Tipo: Zona Verde | ID: 64 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14044,
+          37.992112
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "nombre": "Jardín Huerto Manu",
+        "pedania": "San Antón",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 182 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14033,
+          37.991817
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "nombre": "Jardín Huerto Manu",
+        "pedania": "San Antón",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 182 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136688,
+          37.989846
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "nombre": "Jardín El Salitre",
+        "pedania": "San Antón",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 188 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136142,
+          37.989602
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "nombre": "Jardín El Salitre",
+        "pedania": "San Antón",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 188 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14139,
+          37.988542
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "nombre": "Jardín de la Seda",
+        "pedania": "San Antón",
+        "tipo": "Osmosis Fría",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Antón | Tipo: Osmosis Fría | ID: 203 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145113,
+          37.991674
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "nombre": "Zona Verde Ronda Oeste",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.143427,
+          37.992283
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "nombre": "Zona Verde Ronda Oeste",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146727,
+          37.99323
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "nombre": "Zona Verde Ronda Oeste",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146032,
+          37.992158
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "nombre": "Zona Verde Ronda Oeste",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146489,
+          37.996125
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "nombre": "Jardín Alcalde José Méndez Espino",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 221 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.143516,
+          37.993582
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "nombre": "Jardín San Basilio",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 250 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123909,
+          37.984405
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "nombre": "Plaza Jesucristo Resucitado",
+        "pedania": "San Juan",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Juan | Tipo: Zona Verde | ID: 33 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.124933,
+          37.981775
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "nombre": "Jardín Chino",
+        "pedania": "San Juan",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Juan | Tipo: Zona Verde | ID: 52 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.130934,
+          37.987204
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "nombre": "Plaza Julián Romea",
+        "pedania": "San Miguel",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Miguel | Tipo: Zona Verde | ID: 191 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.130333,
+          37.98749
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "nombre": "Plaza Julián Romea",
+        "pedania": "San Miguel",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Miguel | Tipo: Zona Verde | ID: 191 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134847,
+          37.986122
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "nombre": "Plaza Mayor",
+        "pedania": "San Nicolás",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Nicolás | Tipo: Zona Verde | ID: 193 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.135077,
+          37.986356
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "nombre": "Plaza Mayor",
+        "pedania": "San Nicolás",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: San Nicolás | Tipo: Zona Verde | ID: 193 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123904,
+          37.986643
+        ]
+      },
+      "properties": {
+        "id": 1504,
+        "nombre": "Plaza de la Trinidad",
+        "pedania": "Sta. Eulalia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: Sta. Eulalia | Tipo: Zona Verde | ID: 1504 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.125166,
+          37.985075
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "nombre": "Plaza Santa Eulalia",
+        "pedania": "Sta. Eulalia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: Sta. Eulalia | Tipo: Zona Verde | ID: 48 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.130099,
+          37.992115
+        ]
+      },
+      "properties": {
+        "id": 2516,
+        "nombre": "Jardín de Plaza Circular",
+        "pedania": "Plaza Circular",
+        "tipo": "Osmosis Fría",
+        "zona": "Murcia_Centro",
+        "description": "Pedanía: Plaza Circular | Tipo: Osmosis Fría | ID: 2516 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122745,
+          38.023034
+        ]
+      },
+      "properties": {
+        "id": 2641,
+        "nombre": "Jardín Avenida Constitución",
+        "pedania": "Cabezo de Torres",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cabezo de Torres | Tipo: Zona Verde | ID: 2641 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123404,
+          38.024331
+        ]
+      },
+      "properties": {
+        "id": 2647,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Cabezo de Torres",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cabezo de Torres | Tipo: Zona Verde | ID: 2647 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.126652,
+          38.027155
+        ]
+      },
+      "properties": {
+        "id": 2652,
+        "nombre": "Jardín Centro Mayores",
+        "pedania": "Cabezo de Torres",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cabezo de Torres | Tipo: Zona Verde | ID: 2652 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.126716,
+          38.027115
+        ]
+      },
+      "properties": {
+        "id": 2652,
+        "nombre": "Jardín Centro Mayores",
+        "pedania": "Cabezo de Torres",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cabezo de Torres | Tipo: Zona Verde | ID: 2652 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.126621,
+          38.027177
+        ]
+      },
+      "properties": {
+        "id": 2652,
+        "nombre": "Jardín Centro Mayores",
+        "pedania": "Cabezo de Torres",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cabezo de Torres | Tipo: Zona Verde | ID: 2652 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.121356,
+          38.032347
+        ]
+      },
+      "properties": {
+        "id": 4587,
+        "nombre": "Zona Verde Avenida Juventud-Frente Naves",
+        "pedania": "Cabezo de Torres",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cabezo de Torres | Tipo: Zona Verde | ID: 4587 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.090449,
+          38.008195
+        ]
+      },
+      "properties": {
+        "id": 2436,
+        "nombre": "Plaza Purísima - Calle Federico García Lorca",
+        "pedania": "Casillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Casillas | Tipo: Zona Verde | ID: 2436 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09146,
+          38.008621
+        ]
+      },
+      "properties": {
+        "id": 2438,
+        "nombre": "Jardín Plaza Iglesia",
+        "pedania": "Casillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Casillas | Tipo: Zona Verde | ID: 2438 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089086,
+          38.009089
+        ]
+      },
+      "properties": {
+        "id": 2440,
+        "nombre": "Jardín Calle Alba",
+        "pedania": "Casillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Casillas | Tipo: Zona Verde | ID: 2440 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.093376,
+          38.008667
+        ]
+      },
+      "properties": {
+        "id": 3556,
+        "nombre": "Pipican",
+        "pedania": "Casillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Casillas | Tipo: Zona Verde | ID: 3556 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134825,
+          38.006294
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "nombre": "Jardín 2 Avenida Academia Infantería",
+        "pedania": "Churra",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Churra | Tipo: Zona Verde | ID: 153 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13364,
+          38.020691
+        ]
+      },
+      "properties": {
+        "id": 2941,
+        "nombre": "Jardín José Fuster Muñoz",
+        "pedania": "Churra",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Churra | Tipo: Zona Verde | ID: 2941 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.135048,
+          38.02206
+        ]
+      },
+      "properties": {
+        "id": 2945,
+        "nombre": "Jardín Reyes Magos",
+        "pedania": "Churra",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Churra | Tipo: Zona Verde | ID: 2945 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.138411,
+          38.022481
+        ]
+      },
+      "properties": {
+        "id": 2964,
+        "nombre": "Zona Verde Julio Cortázar-San Isidro",
+        "pedania": "Churra",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Churra | Tipo: Zona Verde | ID: 2964 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1414,
+          38.025328
+        ]
+      },
+      "properties": {
+        "id": 3527,
+        "nombre": "Plaza Infanta Doña Leonor",
+        "pedania": "Churra",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Churra | Tipo: Zona Verde | ID: 3527 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.137701,
+          38.018937
+        ]
+      },
+      "properties": {
+        "id": 3552,
+        "nombre": "Pipican Jardín La Carrasca",
+        "pedania": "Churra",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Churra | Tipo: Zona Verde | ID: 3552 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.076837,
+          38.053198
+        ]
+      },
+      "properties": {
+        "id": 2611,
+        "nombre": "Jardín Miguel Ángel Blanco",
+        "pedania": "Cobatillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cobatillas | Tipo: Zona Verde | ID: 2611 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.079088,
+          38.051415
+        ]
+      },
+      "properties": {
+        "id": 2614,
+        "nombre": "Zona Verde Carretera Alicante",
+        "pedania": "Cobatillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cobatillas | Tipo: Zona Verde | ID: 2614 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.076754,
+          38.053068
+        ]
+      },
+      "properties": {
+        "id": 3724,
+        "nombre": "Jardín Miguel Ángel Blanco 2",
+        "pedania": "Cobatillas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Cobatillas | Tipo: Zona Verde | ID: 3724 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.151652,
+          38.015348
+        ]
+      },
+      "properties": {
+        "id": 2475,
+        "nombre": "Zona Verde Primero Mayo-Federico Balart",
+        "pedania": "El Puntal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: El Puntal | Tipo: Zona Verde | ID: 2475 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145759,
+          38.017828
+        ]
+      },
+      "properties": {
+        "id": 2485,
+        "nombre": "Jardín La Fuente",
+        "pedania": "El Puntal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: El Puntal | Tipo: Zona Verde | ID: 2485 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16572,
+          38.014188
+        ]
+      },
+      "properties": {
+        "id": 3537,
+        "nombre": "Zona Verde Ronda Parque Universidad",
+        "pedania": "El Puntal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: El Puntal | Tipo: Zona Verde | ID: 3537 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.150662,
+          38.013397
+        ]
+      },
+      "properties": {
+        "id": 3577,
+        "nombre": "Pipican Enrique Tierno Galván",
+        "pedania": "El Puntal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: El Puntal | Tipo: Zona Verde | ID: 3577 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.160403,
+          38.010067
+        ]
+      },
+      "properties": {
+        "id": 2523,
+        "nombre": "Jardín Calle América",
+        "pedania": "Espinardo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Espinardo | Tipo: Zona Verde | ID: 2523 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.159572,
+          38.012427
+        ]
+      },
+      "properties": {
+        "id": 2542,
+        "nombre": "Jardín Tirocosa",
+        "pedania": "Espinardo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Espinardo | Tipo: Zona Verde | ID: 2542 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.160209,
+          38.002409
+        ]
+      },
+      "properties": {
+        "id": 3539,
+        "nombre": "Jardín Los Olivos-Joven Futura",
+        "pedania": "Espinardo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Espinardo | Tipo: Zona Verde | ID: 3539 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.158229,
+          38.003584
+        ]
+      },
+      "properties": {
+        "id": 4554,
+        "nombre": "Jardín Avenida Joven Futura 27-29",
+        "pedania": "Espinardo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Espinardo | Tipo: Zona Verde | ID: 4554 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.153919,
+          37.989468
+        ]
+      },
+      "properties": {
+        "id": 2888,
+        "nombre": "Jardín Mariano López Giménez (Junto Colegio Público)",
+        "pedania": "La Albatalía",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Albatalía | Tipo: Zona Verde | ID: 2888 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.129261,
+          37.991269
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "nombre": "Jardín de La Fama",
+        "pedania": "La Fama",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Fama | Tipo: Zona Verde | ID: 128 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123859,
+          37.988307
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "nombre": "Jardín de la Constitución",
+        "pedania": "La Fama",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Fama | Tipo: Zona Verde | ID: 138 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.119032,
+          37.992576
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "nombre": "Jardín Isaac Peral-Tres Copas",
+        "pedania": "La Flota",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Flota | Tipo: Zona Verde | ID: 14 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.120496,
+          37.991902
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "nombre": "Jardín Isaac Peral-Tres Copas",
+        "pedania": "La Flota",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Flota | Tipo: Zona Verde | ID: 14 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.120025,
+          37.992344
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "nombre": "Jardín Isaac Peral-Tres Copas",
+        "pedania": "La Flota",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Flota | Tipo: Zona Verde | ID: 14 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122632,
+          37.99325
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "nombre": "Jardín Huertano Ponce Abellán",
+        "pedania": "La Flota",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: La Flota | Tipo: Zona Verde | ID: 19 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.139438,
+          37.994581
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "nombre": "Zona Verde Arturo Duperier",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 253 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.139738,
+          38.000619
+        ]
+      },
+      "properties": {
+        "id": 4533,
+        "nombre": "Jardín Padre Félix Sánchez Blanco",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 4533 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.142025,
+          38.000035
+        ]
+      },
+      "properties": {
+        "id": 4535,
+        "nombre": "Zona Verde Catedrático Fernández Piñuela",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 4535 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.141381,
+          38.000532
+        ]
+      },
+      "properties": {
+        "id": 4535,
+        "nombre": "Zona Verde Catedrático Fernández Piñuela",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 4535 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.141256,
+          37.996954
+        ]
+      },
+      "properties": {
+        "id": 4603,
+        "nombre": "Jardín Plaza Bohemia",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 4603 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.139063,
+          37.996364
+        ]
+      },
+      "properties": {
+        "id": 4604,
+        "nombre": "Paseo Ramón Gaya",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 4604 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136463,
+          37.996909
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "nombre": "Zona Verde Pabellón Príncipe de Asturias",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 58 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134099,
+          37.994684
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "nombre": "Jardín de Fofo",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 73 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134874,
+          37.995864
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "nombre": "Jardín de Fofo",
+        "pedania": "Sta. María de Gracia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Sta. María de Gracia | Tipo: Zona Verde | ID: 73 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.132365,
+          37.995399
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "nombre": "Jardín Camilo José Cela",
+        "pedania": "Vista Alegre",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Vista Alegre | Tipo: Zona Verde | ID: 116 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.127554,
+          37.993061
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "nombre": "Zona Verde Calle Corregidor Pueyo",
+        "pedania": "Vista Alegre",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Vista Alegre | Tipo: Zona Verde | ID: 117 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.127048,
+          37.996693
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "nombre": "Plaza Cronista Diego Rodríguez de Almela",
+        "pedania": "Vista Alegre",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Vista Alegre | Tipo: Zona Verde | ID: 69 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.113995,
+          37.983862
+        ]
+      },
+      "properties": {
+        "id": 533,
+        "nombre": "Auditorio Víctor Villegas",
+        "pedania": "Vistabella",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Norte",
+        "description": "Pedanía: Vistabella | Tipo: Zona Verde | ID: 533 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.032581,
+          38.012334
+        ]
+      },
+      "properties": {
+        "id": 2881,
+        "nombre": "Jardín Francisco José Vicente Ortega",
+        "pedania": "Alquerías",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Alquerías | Tipo: Zona Verde | ID: 2881 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069258,
+          37.973529
+        ]
+      },
+      "properties": {
+        "id": 2740,
+        "nombre": "Jardín Monteazahar",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2740 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073485,
+          37.97244
+        ]
+      },
+      "properties": {
+        "id": 2746,
+        "nombre": "Jardín José Palma Moraga - Club 3ª Edad",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2746 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.083927,
+          37.985376
+        ]
+      },
+      "properties": {
+        "id": 2751,
+        "nombre": "Jardín Rincón de Villanueva",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2751 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06388,
+          37.965888
+        ]
+      },
+      "properties": {
+        "id": 2803,
+        "nombre": "El Bojar (Escuelas-Zona Baja)",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2803 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073949,
+          37.977412
+        ]
+      },
+      "properties": {
+        "id": 2828,
+        "nombre": "Jardín Luciano Nicolás Hernández - Urb. Los Naranjos",
+        "pedania": "Beniaján",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Beniaján | Tipo: Zona Verde | ID: 2828 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.086226,
+          38.04538
+        ]
+      },
+      "properties": {
+        "id": 2908,
+        "nombre": "Jardín Camino Flora. El Campillo",
+        "pedania": "El Esparragal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: El Esparragal | Tipo: Zona Verde | ID: 2908 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085576,
+          38.046605
+        ]
+      },
+      "properties": {
+        "id": 2912,
+        "nombre": "Jardín Camino La Yesera. El Campillo",
+        "pedania": "El Esparragal",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: El Esparragal | Tipo: Zona Verde | ID: 2912 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.026809,
+          38.041415
+        ]
+      },
+      "properties": {
+        "id": 2455,
+        "nombre": "Centro Cultural",
+        "pedania": "El Raal",
+        "tipo": "Zonas Verdes Otros Servicios",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: El Raal | Tipo: Zonas Verdes Otros Servicios | ID: 2455 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069453,
+          38.005602
+        ]
+      },
+      "properties": {
+        "id": 2589,
+        "nombre": "Ángel López Nicolás",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2589 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069498,
+          38.004539
+        ]
+      },
+      "properties": {
+        "id": 2589,
+        "nombre": "Ángel López Nicolás",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2589 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.056344,
+          38.002449
+        ]
+      },
+      "properties": {
+        "id": 2642,
+        "nombre": "Plaza Padre Clemente",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2642 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.069869,
+          38.009758
+        ]
+      },
+      "properties": {
+        "id": 2648,
+        "nombre": "Zona Verde Acequia Aljada",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2648 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.070378,
+          38.007043
+        ]
+      },
+      "properties": {
+        "id": 2678,
+        "nombre": "Jardín Avenida Silva Muñoz",
+        "pedania": "Llano de Brujas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Llano de Brujas | Tipo: Zona Verde | ID: 2678 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.095811,
+          38.019059
+        ]
+      },
+      "properties": {
+        "id": 2960,
+        "nombre": "Zona Verde Avenida Constitución",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2960 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098351,
+          38.023961
+        ]
+      },
+      "properties": {
+        "id": 2974,
+        "nombre": "Jardín Plaza La Cruz",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2974 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089016,
+          38.022874
+        ]
+      },
+      "properties": {
+        "id": 2976,
+        "nombre": "Jardín Vereda de la Cueva",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2976 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098333,
+          38.017705
+        ]
+      },
+      "properties": {
+        "id": 2997,
+        "nombre": "Jardín Iglesia Ntra. Sra. de la Antigua",
+        "pedania": "Monteagudo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Monteagudo | Tipo: Zona Verde | ID: 2997 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.101091,
+          37.993249
+        ]
+      },
+      "properties": {
+        "id": 2598,
+        "nombre": "Plaza Artesanos del Belén",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 2598 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.101824,
+          37.992154
+        ]
+      },
+      "properties": {
+        "id": 2603,
+        "nombre": "Zona Verde Calle Sol",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 2603 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.102974,
+          37.995276
+        ]
+      },
+      "properties": {
+        "id": 2653,
+        "nombre": "Plaza Tomás y Valiente",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 2653 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098476,
+          37.993443
+        ]
+      },
+      "properties": {
+        "id": 3511,
+        "nombre": "Zeca Calle Gallegos-Concordia",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 3511 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.104326,
+          37.993369
+        ]
+      },
+      "properties": {
+        "id": 4578,
+        "nombre": "Plaza Juan Molina Olivero",
+        "pedania": "Puente Tocinos",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Puente Tocinos | Tipo: Zona Verde | ID: 4578 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.080733,
+          37.968577
+        ]
+      },
+      "properties": {
+        "id": 2869,
+        "nombre": "Jardín Sebastián Gálvez Arce",
+        "pedania": "San José de la Vega",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: San José de la Vega | Tipo: Zona Verde | ID: 2869 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.049728,
+          38.018812
+        ]
+      },
+      "properties": {
+        "id": 2957,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Santa Cruz",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Santa Cruz | Tipo: Zona Verde | ID: 2957 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.050086,
+          38.019058
+        ]
+      },
+      "properties": {
+        "id": 2958,
+        "nombre": "Plaza Sigifredo Hernández Pérez",
+        "pedania": "Santa Cruz",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Santa Cruz | Tipo: Zona Verde | ID: 2958 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.050089,
+          38.018845
+        ]
+      },
+      "properties": {
+        "id": 3665,
+        "nombre": "Zona Verde Calle Mayor",
+        "pedania": "Santa Cruz",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Santa Cruz | Tipo: Zona Verde | ID: 3665 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.057121,
+          37.976597
+        ]
+      },
+      "properties": {
+        "id": 2570,
+        "nombre": "Jardín Montegrande",
+        "pedania": "Torreagüera",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Torreagüera | Tipo: Zona Verde | ID: 2570 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.053711,
+          37.989156
+        ]
+      },
+      "properties": {
+        "id": 4079,
+        "nombre": "Campo de Fútbol",
+        "pedania": "Torreagüera",
+        "tipo": "Zonas Verdes Otros Servicios",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Torreagüera | Tipo: Zonas Verdes Otros Servicios | ID: 4079 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.115753,
+          38.003525
+        ]
+      },
+      "properties": {
+        "id": 2510,
+        "nombre": "Jardín San Félix de Cantalicio",
+        "pedania": "Zarandona",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Zarandona | Tipo: Zona Verde | ID: 2510 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.114468,
+          38.006469
+        ]
+      },
+      "properties": {
+        "id": 2515,
+        "nombre": "Jardín Los Geranios",
+        "pedania": "Zarandona",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Este",
+        "description": "Pedanía: Zarandona | Tipo: Zona Verde | ID: 2515 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.110735,
+          37.944897
+        ]
+      },
+      "properties": {
+        "id": 1116,
+        "nombre": "Plaza Juan XXIII",
+        "pedania": "Algezares",
+        "tipo": "Arbolado Viario",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Arbolado Viario | ID: 1116 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.120263,
+          37.939536
+        ]
+      },
+      "properties": {
+        "id": 1126,
+        "nombre": "Subida a La Fuensanta",
+        "pedania": "Algezares",
+        "tipo": "Arbolado Viario",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Arbolado Viario | ID: 1126 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11669,
+          37.94158
+        ]
+      },
+      "properties": {
+        "id": 1126,
+        "nombre": "Subida a La Fuensanta",
+        "pedania": "Algezares",
+        "tipo": "Arbolado Viario",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Arbolado Viario | ID: 1126 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.115513,
+          37.942747
+        ]
+      },
+      "properties": {
+        "id": 3548,
+        "nombre": "Pipican Pepe Serna",
+        "pedania": "Algezares",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3548 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.117695,
+          37.937307
+        ]
+      },
+      "properties": {
+        "id": 3827,
+        "nombre": "Zona Verde Santuario de La Fuensanta",
+        "pedania": "Algezares",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3827 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.118292,
+          37.937284
+        ]
+      },
+      "properties": {
+        "id": 3827,
+        "nombre": "Zona Verde Santuario de La Fuensanta",
+        "pedania": "Algezares",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3827 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.118281,
+          37.9373
+        ]
+      },
+      "properties": {
+        "id": 3827,
+        "nombre": "Zona Verde Santuario de La Fuensanta",
+        "pedania": "Algezares",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3827 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.106113,
+          37.945128
+        ]
+      },
+      "properties": {
+        "id": 4244,
+        "nombre": "Zona Verde Urbanización Residencial El Mirador",
+        "pedania": "Algezares",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 4244 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.092253,
+          37.954286
+        ]
+      },
+      "properties": {
+        "id": 2772,
+        "nombre": "Jardín Calle Poniente",
+        "pedania": "Garres y Lages",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Garres y Lages | Tipo: Zona Verde | ID: 2772 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.078761,
+          37.959079
+        ]
+      },
+      "properties": {
+        "id": 2816,
+        "nombre": "Zona Verde Iglesia Alta",
+        "pedania": "Garres y Lages",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Garres y Lages | Tipo: Zona Verde | ID: 2816 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.091214,
+          37.954944
+        ]
+      },
+      "properties": {
+        "id": 3547,
+        "nombre": "Pipican Virgen del Mar",
+        "pedania": "Garres y Lages",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Garres y Lages | Tipo: Zona Verde | ID: 3547 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146055,
+          37.942472
+        ]
+      },
+      "properties": {
+        "id": 2400,
+        "nombre": "Jardín Directora Virginia Martínez",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 2400 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.138015,
+          37.942115
+        ]
+      },
+      "properties": {
+        "id": 2496,
+        "nombre": "Jardín Alberca de Salamanca",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 2496 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.147278,
+          37.935822
+        ]
+      },
+      "properties": {
+        "id": 2500,
+        "nombre": "Jardín Los Almendros",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 2500 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.148419,
+          37.93324
+        ]
+      },
+      "properties": {
+        "id": 3759,
+        "nombre": "Zeca Montevida",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 3759 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.148345,
+          37.942373
+        ]
+      },
+      "properties": {
+        "id": 4242,
+        "nombre": "Jardín Nueva Alberca",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 4242 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.151953,
+          37.983876
+        ]
+      },
+      "properties": {
+        "id": 3550,
+        "nombre": "Malecón-Bajo Puente Autovía",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 3550 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.139545,
+          37.981833
+        ]
+      },
+      "properties": {
+        "id": 3550,
+        "nombre": "Malecón-Bajo Puente Autovía",
+        "pedania": "La Alberca",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 3550 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.125897,
+          37.944788
+        ]
+      },
+      "properties": {
+        "id": 2707,
+        "nombre": "Jardín Avenida Juan Carlos I - Calle Cruz",
+        "pedania": "Santo Ángel",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2707 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.131632,
+          37.942168
+        ]
+      },
+      "properties": {
+        "id": 2710,
+        "nombre": "Jardín del Charco",
+        "pedania": "Santo Ángel",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2710 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.129616,
+          37.940715
+        ]
+      },
+      "properties": {
+        "id": 2714,
+        "nombre": "Jardín de los Naranjos",
+        "pedania": "Santo Ángel",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2714 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12792,
+          37.942251
+        ]
+      },
+      "properties": {
+        "id": 2716,
+        "nombre": "Zona Verde Calle La Luz",
+        "pedania": "Santo Ángel",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2716 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.130322,
+          37.943576
+        ]
+      },
+      "properties": {
+        "id": 2717,
+        "nombre": "Jardín Avenida Juan Carlos I - Calle Moreras",
+        "pedania": "Santo Ángel",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2717 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.128944,
+          37.939118
+        ]
+      },
+      "properties": {
+        "id": 2725,
+        "nombre": "Jardín Calle Sauce",
+        "pedania": "Santo Ángel",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2725 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.057121,
+          37.976597
+        ]
+      },
+      "properties": {
+        "id": 2570,
+        "nombre": "Jardín Montegrande",
+        "pedania": "Torreagüera",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Torreagüera | Tipo: Zona Verde | ID: 2570 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.053711,
+          37.989156
+        ]
+      },
+      "properties": {
+        "id": 4079,
+        "nombre": "Campo de Fútbol",
+        "pedania": "Torreagüera",
+        "tipo": "Zonas Verdes Otros Servicios",
+        "zona": "Ladera_Monte_Sur",
+        "description": "Pedanía: Torreagüera | Tipo: Zonas Verdes Otros Servicios | ID: 4079 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.127413,
+          37.97761
+        ]
+      },
+      "properties": {
+        "id": 606,
+        "nombre": "Jardín Pintor Mariano Ballester",
+        "pedania": "Buenos Aires",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Buenos Aires | Tipo: Zona Verde | ID: 606 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.135258,
+          37.979099
+        ]
+      },
+      "properties": {
+        "id": 536,
+        "nombre": "Cuartel de Artillería",
+        "pedania": "El Carmen",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: El Carmen | Tipo: Zona Verde | ID: 536 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.125997,
+          37.97491
+        ]
+      },
+      "properties": {
+        "id": 609,
+        "nombre": "Jardín Callejón del Conde",
+        "pedania": "El Carmen",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: El Carmen | Tipo: Zona Verde | ID: 609 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13357,
+          37.981028
+        ]
+      },
+      "properties": {
+        "id": 652,
+        "nombre": "Paseo Fotógrafo Verdú",
+        "pedania": "El Carmen",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: El Carmen | Tipo: Zona Verde | ID: 652 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.119064,
+          37.978784
+        ]
+      },
+      "properties": {
+        "id": 4292,
+        "nombre": "Jardín Pintor Rosique",
+        "pedania": "Infante Juan Manuel",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 4292 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.117112,
+          37.980876
+        ]
+      },
+      "properties": {
+        "id": 577,
+        "nombre": "Jardín Jorge Manrique",
+        "pedania": "Infante Juan Manuel",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 577 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.118175,
+          37.974279
+        ]
+      },
+      "properties": {
+        "id": 588,
+        "nombre": "Jardín del Lago",
+        "pedania": "Infante Juan Manuel",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 588 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.117323,
+          37.974837
+        ]
+      },
+      "properties": {
+        "id": 588,
+        "nombre": "Jardín del Lago",
+        "pedania": "Infante Juan Manuel",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 588 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.105921,
+          37.974748
+        ]
+      },
+      "properties": {
+        "id": 2932,
+        "nombre": "Zona Verde Calle Periodista Julia Otero",
+        "pedania": "Los Dolores",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Los Dolores | Tipo: Zona Verde | ID: 2932 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.103598,
+          37.976763
+        ]
+      },
+      "properties": {
+        "id": 4305,
+        "nombre": "Jardín Calle Constitución",
+        "pedania": "Los Dolores",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Los Dolores | Tipo: Zona Verde | ID: 4305 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.121769,
+          37.977112
+        ]
+      },
+      "properties": {
+        "id": 602,
+        "nombre": "Jardín del Sauce",
+        "pedania": "Ntra. Sra. Fuensanta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122856,
+          37.977327
+        ]
+      },
+      "properties": {
+        "id": 602,
+        "nombre": "Jardín del Sauce",
+        "pedania": "Ntra. Sra. Fuensanta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122089,
+          37.976899
+        ]
+      },
+      "properties": {
+        "id": 602,
+        "nombre": "Jardín del Sauce",
+        "pedania": "Ntra. Sra. Fuensanta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122228,
+          37.976838
+        ]
+      },
+      "properties": {
+        "id": 602,
+        "nombre": "Jardín del Sauce",
+        "pedania": "Ntra. Sra. Fuensanta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.133392,
+          37.967675
+        ]
+      },
+      "properties": {
+        "id": 637,
+        "nombre": "Zona Verde Ronda Sur",
+        "pedania": "San Benito - Patiño",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: San Benito - Patiño | Tipo: Zona Verde | ID: 637 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123125,
+          37.971616
+        ]
+      },
+      "properties": {
+        "id": 620,
+        "nombre": "Jardín Santa Rosa",
+        "pedania": "Santiago el Mayor",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio",
+        "description": "Pedanía: Santiago el Mayor | Tipo: Zona Verde | ID: 620 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.154449,
+          37.954927
+        ]
+      },
+      "properties": {
+        "id": 2403,
+        "nombre": "Jardín Virgen de los Dolores",
+        "pedania": "Aljucer",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Aljucer | Tipo: Zona Verde | ID: 2403 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.148089,
+          37.952785
+        ]
+      },
+      "properties": {
+        "id": 2406,
+        "nombre": "Jardín Calle del Aire",
+        "pedania": "Aljucer",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Aljucer | Tipo: Zona Verde | ID: 2406 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.150753,
+          37.958238
+        ]
+      },
+      "properties": {
+        "id": 2410,
+        "nombre": "Jardín Carril del Palmeral",
+        "pedania": "Aljucer",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Aljucer | Tipo: Zona Verde | ID: 2410 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.169554,
+          37.93826
+        ]
+      },
+      "properties": {
+        "id": 2417,
+        "nombre": "Jardín Cronista Carlos Valcárcel",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2417 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.170122,
+          37.940323
+        ]
+      },
+      "properties": {
+        "id": 2420,
+        "nombre": "Plaza José María Párraga",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2420 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.162646,
+          37.941462
+        ]
+      },
+      "properties": {
+        "id": 2421,
+        "nombre": "Jardín Calle San Diego",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2421 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.161574,
+          37.937077
+        ]
+      },
+      "properties": {
+        "id": 2453,
+        "nombre": "Jardín Calle Mayor-San Roque",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2453 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.169102,
+          37.934409
+        ]
+      },
+      "properties": {
+        "id": 2632,
+        "nombre": "Parque Don Jaime Sotos",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2632 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.168294,
+          37.934177
+        ]
+      },
+      "properties": {
+        "id": 2632,
+        "nombre": "Parque Don Jaime Sotos",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2632 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.167927,
+          37.927859
+        ]
+      },
+      "properties": {
+        "id": 2671,
+        "nombre": "Pepe Pintado",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2671 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.169355,
+          37.940199
+        ]
+      },
+      "properties": {
+        "id": 3529,
+        "nombre": "Plaza Pintor Almela Costa",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 3529 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.157467,
+          37.942511
+        ]
+      },
+      "properties": {
+        "id": 4543,
+        "nombre": "Zona Verde Carretera Alberca",
+        "pedania": "El Palmar",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 4543 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.166603,
+          37.966019
+        ]
+      },
+      "properties": {
+        "id": 2659,
+        "nombre": "Jardín Joaquín García Cabezos",
+        "pedania": "Era Alta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Era Alta | Tipo: Zona Verde | ID: 2659 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.167812,
+          37.968397
+        ]
+      },
+      "properties": {
+        "id": 2664,
+        "nombre": "Jardín Príncipe Felipe",
+        "pedania": "Era Alta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Era Alta | Tipo: Zona Verde | ID: 2664 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.174177,
+          37.999468
+        ]
+      },
+      "properties": {
+        "id": 2898,
+        "nombre": "Jardín La Tirolina",
+        "pedania": "Guadalupe",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Guadalupe | Tipo: Zona Verde | ID: 2898 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.173244,
+          38.002223
+        ]
+      },
+      "properties": {
+        "id": 2901,
+        "nombre": "Jardín de la Libertad",
+        "pedania": "Guadalupe",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Guadalupe | Tipo: Zona Verde | ID: 2901 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.177939,
+          38.000905
+        ]
+      },
+      "properties": {
+        "id": 3538,
+        "nombre": "Zona Verde Reyes Católicos",
+        "pedania": "Guadalupe",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Guadalupe | Tipo: Zona Verde | ID: 3538 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.218124,
+          37.986223
+        ]
+      },
+      "properties": {
+        "id": 2938,
+        "nombre": "Plaza de la Ermita",
+        "pedania": "Javalí Nuevo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 2938 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.217703,
+          37.986375
+        ]
+      },
+      "properties": {
+        "id": 2938,
+        "nombre": "Plaza de la Ermita",
+        "pedania": "Javalí Nuevo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 2938 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.217083,
+          37.984931
+        ]
+      },
+      "properties": {
+        "id": 2955,
+        "nombre": "Jardín Constitución",
+        "pedania": "Javalí Nuevo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 2955 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.216296,
+          37.994585
+        ]
+      },
+      "properties": {
+        "id": 3793,
+        "nombre": "Contraparada Zona Exterior-Sur",
+        "pedania": "Javalí Nuevo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 3793 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.218364,
+          37.994706
+        ]
+      },
+      "properties": {
+        "id": 3794,
+        "nombre": "Contraparada Mirador-Zona Infantil",
+        "pedania": "Javalí Nuevo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 3794 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.217801,
+          37.994844
+        ]
+      },
+      "properties": {
+        "id": 3794,
+        "nombre": "Contraparada Mirador-Zona Infantil",
+        "pedania": "Javalí Nuevo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 3794 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.201242,
+          37.991636
+        ]
+      },
+      "properties": {
+        "id": 2826,
+        "nombre": "Zona Verde Calle Constitución",
+        "pedania": "Javalí Viejo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Viejo | Tipo: Zona Verde | ID: 2826 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.217801,
+          37.997225
+        ]
+      },
+      "properties": {
+        "id": 3517,
+        "nombre": "Paraje Azud de Contraparada",
+        "pedania": "Javalí Viejo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Viejo | Tipo: Zona Verde | ID: 3517 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.216569,
+          37.995996
+        ]
+      },
+      "properties": {
+        "id": 3736,
+        "nombre": "Contraparada Laterales y Zona Boscosa",
+        "pedania": "Javalí Viejo",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Javalí Viejo | Tipo: Zona Verde | ID: 3736 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.181337,
+          37.977317
+        ]
+      },
+      "properties": {
+        "id": 3564,
+        "nombre": "Pistas Deportivas Colegio",
+        "pedania": "La Raya",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: La Raya | Tipo: Zona Verde | ID: 3564 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.170481,
+          37.971904
+        ]
+      },
+      "properties": {
+        "id": 2633,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Nonduermas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 2633 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17309,
+          37.970265
+        ]
+      },
+      "properties": {
+        "id": 2639,
+        "nombre": "Jardín Escultor Francisco Salzillo",
+        "pedania": "Nonduermas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 2639 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.171745,
+          37.972253
+        ]
+      },
+      "properties": {
+        "id": 2640,
+        "nombre": "Plaza Gregorio Pérez Rodríguez",
+        "pedania": "Nonduermas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 2640 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.183545,
+          37.964661
+        ]
+      },
+      "properties": {
+        "id": 4886,
+        "nombre": "Zona Verde Ermita de Burgos",
+        "pedania": "Nonduermas",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 4886 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17716,
+          37.985591
+        ]
+      },
+      "properties": {
+        "id": 2519,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Rincón de Beniscornia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Rincón de Beniscornia | Tipo: Zona Verde | ID: 2519 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.178764,
+          37.984756
+        ]
+      },
+      "properties": {
+        "id": 2521,
+        "nombre": "Jardín Molino del Batán",
+        "pedania": "Rincón de Beniscornia",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: Rincón de Beniscornia | Tipo: Zona Verde | ID: 2521 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.176099,
+          37.957271
+        ]
+      },
+      "properties": {
+        "id": 2001,
+        "nombre": "Avenida San Ginés",
+        "pedania": "San Ginés",
+        "tipo": "Arbolado Viario",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: San Ginés | Tipo: Arbolado Viario | ID: 2001 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.177314,
+          37.95496
+        ]
+      },
+      "properties": {
+        "id": 2488,
+        "nombre": "Zona Verde Calle Escuelas",
+        "pedania": "San Ginés",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: San Ginés | Tipo: Zona Verde | ID: 2488 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.177346,
+          37.955085
+        ]
+      },
+      "properties": {
+        "id": 2488,
+        "nombre": "Zona Verde Calle Escuelas",
+        "pedania": "San Ginés",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: San Ginés | Tipo: Zona Verde | ID: 2488 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17587,
+          37.952268
+        ]
+      },
+      "properties": {
+        "id": 2511,
+        "nombre": "Jardín Calle Mayor",
+        "pedania": "San Ginés",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: San Ginés | Tipo: Zona Verde | ID: 2511 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.179536,
+          37.958344
+        ]
+      },
+      "properties": {
+        "id": 3238,
+        "nombre": "Plaza Ermita",
+        "pedania": "San Ginés",
+        "tipo": "Arbolado Viario",
+        "zona": "Murcia_Oeste",
+        "description": "Pedanía: San Ginés | Tipo: Arbolado Viario | ID: 3238 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.130865,
+          37.869257
+        ]
+      },
+      "properties": {
+        "id": 2847,
+        "nombre": "Jardín Junto Alcaldía",
+        "pedania": "Baños y Mendigo",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Baños y Mendigo | Tipo: Zona Verde | ID: 2847 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.368765,
+          37.94073
+        ]
+      },
+      "properties": {
+        "id": 2978,
+        "nombre": "Jardín Centro",
+        "pedania": "Barqueros",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Barqueros | Tipo: Zona Verde | ID: 2978 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99202,
+          37.979272
+        ]
+      },
+      "properties": {
+        "id": 2667,
+        "nombre": "Jardín Iglesia",
+        "pedania": "Cañadas de San Pedro",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Cañadas de San Pedro | Tipo: Zona Verde | ID: 2667 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.209287,
+          37.82644
+        ]
+      },
+      "properties": {
+        "id": 2993,
+        "nombre": "Jardín Casas Abajo",
+        "pedania": "Carrascoy y La Murta",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Carrascoy y La Murta | Tipo: Zona Verde | ID: 2993 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.211056,
+          37.827662
+        ]
+      },
+      "properties": {
+        "id": 3514,
+        "nombre": "Subida Plaza de la Cruz",
+        "pedania": "Carrascoy y La Murta",
+        "tipo": "Arbolado Viario",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Carrascoy y La Murta | Tipo: Arbolado Viario | ID: 3514 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.161882,
+          37.826984
+        ]
+      },
+      "properties": {
+        "id": 2942,
+        "nombre": "Jardín Iglesia",
+        "pedania": "Corvera",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Corvera | Tipo: Zona Verde | ID: 2942 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.155321,
+          37.832426
+        ]
+      },
+      "properties": {
+        "id": 2944,
+        "nombre": "Jardín Libertad",
+        "pedania": "Corvera",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Corvera | Tipo: Zona Verde | ID: 2944 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.010008,
+          37.881607
+        ]
+      },
+      "properties": {
+        "id": 2690,
+        "nombre": "Jardín Centro Municipal",
+        "pedania": "Gea y Truyols",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Gea y Truyols | Tipo: Zona Verde | ID: 2690 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.010797,
+          37.879689
+        ]
+      },
+      "properties": {
+        "id": 2696,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Gea y Truyols",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Gea y Truyols | Tipo: Zona Verde | ID: 2696 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.941042,
+          37.850105
+        ]
+      },
+      "properties": {
+        "id": 2251,
+        "nombre": "Molino",
+        "pedania": "Jeronimo y Avileses",
+        "tipo": "Arbolado Viario",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Jeronimo y Avileses | Tipo: Arbolado Viario | ID: 2251 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.942325,
+          37.849242
+        ]
+      },
+      "properties": {
+        "id": 2777,
+        "nombre": "Plaza Los Peruchos",
+        "pedania": "Jeronimo y Avileses",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Jeronimo y Avileses | Tipo: Zona Verde | ID: 2777 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.081431,
+          37.730619
+        ]
+      },
+      "properties": {
+        "id": 2741,
+        "nombre": "Jardín Calle Río Guadiana",
+        "pedania": "Lobosillo",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Lobosillo | Tipo: Zona Verde | ID: 2741 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085786,
+          37.729734
+        ]
+      },
+      "properties": {
+        "id": 4822,
+        "nombre": "Zona Verde José Sánchez-Centro Juvenil",
+        "pedania": "Lobosillo",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Lobosillo | Tipo: Zona Verde | ID: 4822 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.076555,
+          37.816898
+        ]
+      },
+      "properties": {
+        "id": 2695,
+        "nombre": "Plaza Centro Municipal",
+        "pedania": "Los Martínez del Puerto",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Los Martínez del Puerto | Tipo: Zona Verde | ID: 2695 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.076773,
+          37.818723
+        ]
+      },
+      "properties": {
+        "id": 2697,
+        "nombre": "Parterre Santa Catalina",
+        "pedania": "Los Martínez del Puerto",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Los Martínez del Puerto | Tipo: Zona Verde | ID: 2697 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.245227,
+          37.909109
+        ]
+      },
+      "properties": {
+        "id": 2525,
+        "nombre": "Zona Verde Cuevas del Norte",
+        "pedania": "Sangonera la Seca",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Seca | Tipo: Zona Verde | ID: 2525 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.229677,
+          37.962855
+        ]
+      },
+      "properties": {
+        "id": 2537,
+        "nombre": "Paseo Central 2 Avenida Colón",
+        "pedania": "Sangonera la Seca",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Seca | Tipo: Zona Verde | ID: 2537 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.230922,
+          37.963906
+        ]
+      },
+      "properties": {
+        "id": 3544,
+        "nombre": "Zeca Calle Juan XXIII",
+        "pedania": "Sangonera la Seca",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Seca | Tipo: Zona Verde | ID: 3544 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.210069,
+          37.929309
+        ]
+      },
+      "properties": {
+        "id": 2842,
+        "nombre": "Jardín Caracol",
+        "pedania": "Sangonera la Verde",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2842 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.209824,
+          37.922643
+        ]
+      },
+      "properties": {
+        "id": 2849,
+        "nombre": "Jardín Dulcinea",
+        "pedania": "Sangonera la Verde",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2849 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.207206,
+          37.916236
+        ]
+      },
+      "properties": {
+        "id": 2854,
+        "nombre": "Zona Verde Ermita de la Cruz",
+        "pedania": "Sangonera la Verde",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2854 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2032,
+          37.932013
+        ]
+      },
+      "properties": {
+        "id": 2868,
+        "nombre": "Jardín Urbanización Girasoles",
+        "pedania": "Sangonera la Verde",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2868 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.215197,
+          37.925144
+        ]
+      },
+      "properties": {
+        "id": 4880,
+        "nombre": "Zona Verde Señorío-Sacerdote Juan Sánchez",
+        "pedania": "Sangonera la Verde",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 4880 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123435,
+          37.776657
+        ]
+      },
+      "properties": {
+        "id": 2492,
+        "nombre": "Plaza Iglesia",
+        "pedania": "Valladolises y Lo Jurado",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Valladolises y Lo Jurado | Tipo: Zona Verde | ID: 2492 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12351,
+          37.776387
+        ]
+      },
+      "properties": {
+        "id": 3512,
+        "nombre": "Zona Verde Miguel de Cervantes",
+        "pedania": "Valladolises y Lo Jurado",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Valladolises y Lo Jurado | Tipo: Zona Verde | ID: 3512 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123515,
+          37.776395
+        ]
+      },
+      "properties": {
+        "id": 3512,
+        "nombre": "Zona Verde Miguel de Cervantes",
+        "pedania": "Valladolises y Lo Jurado",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas",
+        "description": "Pedanía: Valladolises y Lo Jurado | Tipo: Zona Verde | ID: 3512 | Revisar: AÑADIR_LINK_FORMULARIO"
+      }
+    }
+  ]
+}
