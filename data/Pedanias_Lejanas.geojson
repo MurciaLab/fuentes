@@ -1,10 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "Pedanias_Lejanas",
   "features": [
     {
       "type": "Feature",
-      "id": 2847,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,17 +11,16 @@
         ]
       },
       "properties": {
-        "id": 2847,
+        "id": "2847",
+        "id_jardin": 2847,
         "nombre": "Jardín Junto Alcaldía",
         "pedania": "Baños y Mendigo",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Baños y Mendigo | Tipo: Zona Verde | ID: 2847 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2978,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,17 +29,16 @@
         ]
       },
       "properties": {
-        "id": 2978,
+        "id": "2978",
+        "id_jardin": 2978,
         "nombre": "Jardín Centro",
         "pedania": "Barqueros",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Barqueros | Tipo: Zona Verde | ID: 2978 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2667,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,17 +47,16 @@
         ]
       },
       "properties": {
-        "id": 2667,
+        "id": "2667",
+        "id_jardin": 2667,
         "nombre": "Jardín Iglesia",
         "pedania": "Cañadas de San Pedro",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Cañadas de San Pedro | Tipo: Zona Verde | ID: 2667 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2993,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -70,17 +65,16 @@
         ]
       },
       "properties": {
-        "id": 2993,
+        "id": "2993",
+        "id_jardin": 2993,
         "nombre": "Jardín Casas Abajo",
         "pedania": "Carrascoy y La Murta",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Carrascoy y La Murta | Tipo: Zona Verde | ID: 2993 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 3514,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,17 +83,16 @@
         ]
       },
       "properties": {
-        "id": 3514,
+        "id": "3514",
+        "id_jardin": 3514,
         "nombre": "Subida Plaza de la Cruz",
         "pedania": "Carrascoy y La Murta",
         "tipo": "Arbolado Viario",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Carrascoy y La Murta | Tipo: Arbolado Viario | ID: 3514 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2942,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -108,17 +101,16 @@
         ]
       },
       "properties": {
-        "id": 2942,
+        "id": "2942",
+        "id_jardin": 2942,
         "nombre": "Jardín Iglesia",
         "pedania": "Corvera",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Corvera | Tipo: Zona Verde | ID: 2942 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2944,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -127,17 +119,16 @@
         ]
       },
       "properties": {
-        "id": 2944,
+        "id": "2944",
+        "id_jardin": 2944,
         "nombre": "Jardín Libertad",
         "pedania": "Corvera",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Corvera | Tipo: Zona Verde | ID: 2944 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2690,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,17 +137,16 @@
         ]
       },
       "properties": {
-        "id": 2690,
+        "id": "2690",
+        "id_jardin": 2690,
         "nombre": "Jardín Centro Municipal",
         "pedania": "Gea y Truyols",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Gea y Truyols | Tipo: Zona Verde | ID: 2690 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2696,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -165,17 +155,16 @@
         ]
       },
       "properties": {
-        "id": 2696,
+        "id": "2696",
+        "id_jardin": 2696,
         "nombre": "Plaza Iglesia",
         "pedania": "Gea y Truyols",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Gea y Truyols | Tipo: Zona Verde | ID: 2696 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2251,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -184,17 +173,16 @@
         ]
       },
       "properties": {
-        "id": 2251,
+        "id": "2251",
+        "id_jardin": 2251,
         "nombre": "Molino",
         "pedania": "Jeronimo y Avileses",
         "tipo": "Arbolado Viario",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Jeronimo y Avileses | Tipo: Arbolado Viario | ID: 2251 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2777,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -203,17 +191,16 @@
         ]
       },
       "properties": {
-        "id": 2777,
+        "id": "2777",
+        "id_jardin": 2777,
         "nombre": "Plaza Los Peruchos",
         "pedania": "Jeronimo y Avileses",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Jeronimo y Avileses | Tipo: Zona Verde | ID: 2777 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2741,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -222,17 +209,16 @@
         ]
       },
       "properties": {
-        "id": 2741,
+        "id": "2741",
+        "id_jardin": 2741,
         "nombre": "Jardín Calle Río Guadiana",
         "pedania": "Lobosillo",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Lobosillo | Tipo: Zona Verde | ID: 2741 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 4822,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -241,17 +227,16 @@
         ]
       },
       "properties": {
-        "id": 4822,
+        "id": "4822",
+        "id_jardin": 4822,
         "nombre": "Zona Verde José Sánchez-Centro Juvenil",
         "pedania": "Lobosillo",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Lobosillo | Tipo: Zona Verde | ID: 4822 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2695,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -260,17 +245,16 @@
         ]
       },
       "properties": {
-        "id": 2695,
+        "id": "2695",
+        "id_jardin": 2695,
         "nombre": "Plaza Centro Municipal",
         "pedania": "Los Martínez del Puerto",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Los Martínez del Puerto | Tipo: Zona Verde | ID: 2695 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2697,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -279,17 +263,16 @@
         ]
       },
       "properties": {
-        "id": 2697,
+        "id": "2697",
+        "id_jardin": 2697,
         "nombre": "Parterre Santa Catalina",
         "pedania": "Los Martínez del Puerto",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Los Martínez del Puerto | Tipo: Zona Verde | ID: 2697 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2525,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -298,17 +281,16 @@
         ]
       },
       "properties": {
-        "id": 2525,
+        "id": "2525",
+        "id_jardin": 2525,
         "nombre": "Zona Verde Cuevas del Norte",
         "pedania": "Sangonera la Seca",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Seca | Tipo: Zona Verde | ID: 2525 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2537,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -317,17 +299,16 @@
         ]
       },
       "properties": {
-        "id": 2537,
+        "id": "2537",
+        "id_jardin": 2537,
         "nombre": "Paseo Central 2 Avenida Colón",
         "pedania": "Sangonera la Seca",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Seca | Tipo: Zona Verde | ID: 2537 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 3544,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -336,17 +317,16 @@
         ]
       },
       "properties": {
-        "id": 3544,
+        "id": "3544",
+        "id_jardin": 3544,
         "nombre": "Zeca Calle Juan XXIII",
         "pedania": "Sangonera la Seca",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Seca | Tipo: Zona Verde | ID: 3544 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2842,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -355,17 +335,16 @@
         ]
       },
       "properties": {
-        "id": 2842,
+        "id": "2842",
+        "id_jardin": 2842,
         "nombre": "Jardín Caracol",
         "pedania": "Sangonera la Verde",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2842 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2849,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -374,17 +353,16 @@
         ]
       },
       "properties": {
-        "id": 2849,
+        "id": "2849",
+        "id_jardin": 2849,
         "nombre": "Jardín Dulcinea",
         "pedania": "Sangonera la Verde",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2849 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2854,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -393,17 +371,16 @@
         ]
       },
       "properties": {
-        "id": 2854,
+        "id": "2854",
+        "id_jardin": 2854,
         "nombre": "Zona Verde Ermita de la Cruz",
         "pedania": "Sangonera la Verde",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2854 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2868,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -412,17 +389,16 @@
         ]
       },
       "properties": {
-        "id": 2868,
+        "id": "2868",
+        "id_jardin": 2868,
         "nombre": "Jardín Urbanización Girasoles",
         "pedania": "Sangonera la Verde",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 2868 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 4880,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -431,17 +407,16 @@
         ]
       },
       "properties": {
-        "id": 4880,
+        "id": "4880",
+        "id_jardin": 4880,
         "nombre": "Zona Verde Señorío-Sacerdote Juan Sánchez",
         "pedania": "Sangonera la Verde",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Sangonera la Verde | Tipo: Zona Verde | ID: 4880 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 2492,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -450,36 +425,16 @@
         ]
       },
       "properties": {
-        "id": 2492,
+        "id": "2492",
+        "id_jardin": 2492,
         "nombre": "Plaza Iglesia",
         "pedania": "Valladolises y Lo Jurado",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Valladolises y Lo Jurado | Tipo: Zona Verde | ID: 2492 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
       }
     },
     {
       "type": "Feature",
-      "id": 3512,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.12351,
-          37.776387
-        ]
-      },
-      "properties": {
-        "id": 3512,
-        "nombre": "Zona Verde Miguel de Cervantes",
-        "pedania": "Valladolises y Lo Jurado",
-        "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Valladolises y Lo Jurado | Tipo: Zona Verde | ID: 3512 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 3512,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -488,12 +443,30 @@
         ]
       },
       "properties": {
-        "id": 3512,
+        "id": "3512",
+        "id_jardin": 3512,
         "nombre": "Zona Verde Miguel de Cervantes",
         "pedania": "Valladolises y Lo Jurado",
         "tipo": "Zona Verde",
-        "zona": "Pedanias_Lejanas",
-        "description": "Pedanía: Valladolises y Lo Jurado | Tipo: Zona Verde | ID: 3512 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Pedanias_Lejanas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12351,
+          37.776387
+        ]
+      },
+      "properties": {
+        "id": "3512_2",
+        "id_jardin": 3512,
+        "nombre": "Zona Verde Miguel de Cervantes",
+        "pedania": "Valladolises y Lo Jurado",
+        "tipo": "Zona Verde",
+        "zona": "Pedanias_Lejanas"
       }
     }
   ]

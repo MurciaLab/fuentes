@@ -4,6 +4,7 @@
   --c-perro: #F59E0B;
   --c-no-funciona: #EF4444;
   --c-no-encontrada: #6B7280;
+  --c-propuesta: #8B5CF6;
 
   --bg: #ffffff;
   --bg-elev: #ffffff;
@@ -362,6 +363,7 @@ html, body {
 .badge-perro    { background: var(--c-perro); color: #422006; }
 .badge-no_funciona   { background: var(--c-no-funciona); }
 .badge-no_encontrada { background: var(--c-no-encontrada); }
+.badge-propuesta     { background: var(--c-propuesta); }
 
 /* ------------------------------------------------------------------ */
 /* Toast                                                               */

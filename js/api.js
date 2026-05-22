@@ -23,5 +23,9 @@ const Api = (() => {
     return get('fuente', { id }).catch(() => ({ id, revisiones: [] }));
   }
 
-  return { getState, getFuente };
+  function getNuevas() {
+    return get('nuevas').catch(() => ({ type: 'FeatureCollection', features: [] }));
+  }
+
+  return { getState, getFuente, getNuevas };
 })();

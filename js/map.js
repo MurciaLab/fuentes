@@ -3,6 +3,11 @@
 // Cada capa es un L.layerGroup que se rellena bajo demanda la primera vez
 // que se activa. Tras eso, mostrar/ocultar es solo addLayer/removeLayer.
 // El namespace se llama MapView para no sombrear el `Map` nativo.
+//
+// Las capas pueden ser estáticas (file: 'data/X.geojson') o dinámicas
+// (source: 'api'). Las dinámicas cargan vía Api.getNuevas() y sus
+// marcadores arrancan con `cfg.defaultEstado` (p.ej. 'propuesta'); si
+// más tarde aparecen en getState(), su icono se actualiza.
 
 const MapView = (() => {
   let map = null;
@@ -10,7 +15,7 @@ const MapView = (() => {
   let tapHandler = null;
   let currentStates = {};
 
-  // { key: { group, loaded, visible, markers: [{ id, marker, feature }] } }
+  // { key: { group, loaded, visible, markers: [{ id, marker, feature, defaultEstado }] } }
   const layerState = {};
 
   function buildLayerState() {
@@ -24,21 +29,31 @@ const MapView = (() => {
     }
   }
 
+  async function fetchFeatures(cfg) {
+    if (cfg.source === 'api') {
+      const gj = await Api.getNuevas();
+      return (gj && gj.features) || [];
+    }
+    const res = await fetch(cfg.file);
+    if (!res.ok) throw new Error('http_' + res.status);
+    const gj = await res.json();
+    return (gj && gj.features) || [];
+  }
+
   async function loadLayer(cfg) {
     const st = layerState[cfg.key];
     if (!st || st.loaded) return;
     try {
-      const res = await fetch(cfg.file);
-      if (!res.ok) throw new Error('http_' + res.status);
-      const gj = await res.json();
-      for (const feat of (gj.features || [])) {
+      const features = await fetchFeatures(cfg);
+      const defaultEstado = cfg.defaultEstado || 'pendiente';
+      for (const feat of features) {
         // Solo puntos. Cualquier otra geometría se ignora silenciosamente.
         if (!feat.geometry || feat.geometry.type !== 'Point') continue;
         const props = feat.properties || {};
         const id = String(props.id);
         if (id == null) continue;
         const [lon, lat] = feat.geometry.coordinates;
-        const estado = (currentStates[id] && currentStates[id].estado) || 'pendiente';
+        const estado = (currentStates[id] && currentStates[id].estado) || defaultEstado;
         const m = L.marker([lat, lon], {
           icon: Markers.icon(estado),
           keyboard: true,
@@ -47,7 +62,7 @@ const MapView = (() => {
         });
         m.on('click', () => { if (tapHandler) tapHandler(feat); });
         m.addTo(st.group);
-        st.markers.push({ id, marker: m, feature: feat });
+        st.markers.push({ id, marker: m, feature: feat, defaultEstado: defaultEstado });
       }
       st.loaded = true;
     } catch (e) {
@@ -99,14 +114,11 @@ const MapView = (() => {
     for (const key in layerState) {
       for (const m of layerState[key].markers) {
         const id = String(m.id);
-
         const estado =
           (currentStates[id] && currentStates[id].estado)
+          || m.defaultEstado
           || 'pendiente';
-
-        m.marker.setIcon(
-          Markers.icon(estado)
-        );
+        m.marker.setIcon(Markers.icon(estado));
       }
     }
   }
@@ -143,8 +155,7 @@ const MapView = (() => {
   }
 
   // Activa las capas indicadas. Las que no estén en la lista quedan ocultas.
-  // Devuelve la lista de keys que realmente quedaron visibles (las que tienen
-  // fichero válido y al menos un punto).
+  // Devuelve la lista de keys que realmente quedaron visibles.
   async function activateInitial(keysOn) {
     const onSet = new Set(keysOn);
     const cfgs = (CONFIG.LAYERS || []).filter((c) => onSet.has(c.key));
@@ -197,6 +208,37 @@ const MapView = (() => {
     );
   }
 
+  // Variante de centerOnUser que solo devuelve la posición vía callback
+  // (sin pintar marker ni mover el mapa).
+  function requestPosition(callbacks) {
+    callbacks = callbacks || {};
+    if (!('geolocation' in navigator)) {
+      callbacks.onError && callbacks.onError('Geolocalización no disponible en este dispositivo');
+      return;
+    }
+    const host = location.hostname;
+    const secure = window.isSecureContext || host === 'localhost' || host === '127.0.0.1';
+    if (!secure) {
+      callbacks.onError && callbacks.onError('La ubicación necesita conexión HTTPS');
+      return;
+    }
+    callbacks.onPending && callbacks.onPending();
+
+    navigator.geolocation.getCurrentPosition(
+      (pos) => { callbacks.onSuccess && callbacks.onSuccess(pos); },
+      (err) => {
+        let msg = 'No se pudo obtener tu ubicación';
+        if (err) {
+          if (err.code === 1) msg = 'Permiso de ubicación denegado';
+          else if (err.code === 2) msg = 'Ubicación no disponible ahora mismo';
+          else if (err.code === 3) msg = 'Tu dispositivo tardó demasiado en localizarte';
+        }
+        callbacks.onError && callbacks.onError(msg);
+      },
+      { enableHighAccuracy: true, timeout: 15000, maximumAge: 5000 }
+    );
+  }
+
   function onMarkerTap(fn) { tapHandler = fn; }
 
   return {
@@ -207,6 +249,7 @@ const MapView = (() => {
     getVisibleFeatures,
     setStates,
     centerOnUser,
+    requestPosition,
     onMarkerTap,
     fitToVisible
   };

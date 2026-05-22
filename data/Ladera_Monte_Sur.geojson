@@ -1,10 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "Ladera_Monte_Sur",
   "features": [
     {
       "type": "Feature",
-      "id": 1116,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,17 +11,16 @@
         ]
       },
       "properties": {
-        "id": 1116,
+        "id": "1116",
+        "id_jardin": 1116,
         "nombre": "Plaza Juan XXIII",
         "pedania": "Algezares",
         "tipo": "Arbolado Viario",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Arbolado Viario | ID: 1116 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 1126,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,17 +29,16 @@
         ]
       },
       "properties": {
-        "id": 1126,
+        "id": "1126",
+        "id_jardin": 1126,
         "nombre": "Subida a La Fuensanta",
         "pedania": "Algezares",
         "tipo": "Arbolado Viario",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Arbolado Viario | ID: 1126 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 1126,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,17 +47,16 @@
         ]
       },
       "properties": {
-        "id": 1126,
+        "id": "1126_2",
+        "id_jardin": 1126,
         "nombre": "Subida a La Fuensanta",
         "pedania": "Algezares",
         "tipo": "Arbolado Viario",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Arbolado Viario | ID: 1126 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3548,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -70,36 +65,16 @@
         ]
       },
       "properties": {
-        "id": 3548,
+        "id": "3548",
+        "id_jardin": 3548,
         "nombre": "Pipican Pepe Serna",
         "pedania": "Algezares",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3548 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3827,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.117695,
-          37.937307
-        ]
-      },
-      "properties": {
-        "id": 3827,
-        "nombre": "Zona Verde Santuario de La Fuensanta",
-        "pedania": "Algezares",
-        "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3827 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 3827,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -108,17 +83,16 @@
         ]
       },
       "properties": {
-        "id": 3827,
+        "id": "3827",
+        "id_jardin": 3827,
         "nombre": "Zona Verde Santuario de La Fuensanta",
         "pedania": "Algezares",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3827 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3827,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -127,17 +101,34 @@
         ]
       },
       "properties": {
-        "id": 3827,
+        "id": "3827_2",
+        "id_jardin": 3827,
         "nombre": "Zona Verde Santuario de La Fuensanta",
         "pedania": "Algezares",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 3827 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 4244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.117695,
+          37.937307
+        ]
+      },
+      "properties": {
+        "id": "3827_3",
+        "id_jardin": 3827,
+        "nombre": "Zona Verde Santuario de La Fuensanta",
+        "pedania": "Algezares",
+        "tipo": "Zona Verde",
+        "zona": "Ladera_Monte_Sur"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,17 +137,16 @@
         ]
       },
       "properties": {
-        "id": 4244,
+        "id": "4244",
+        "id_jardin": 4244,
         "nombre": "Zona Verde Urbanización Residencial El Mirador",
         "pedania": "Algezares",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Algezares | Tipo: Zona Verde | ID: 4244 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2772,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -165,17 +155,16 @@
         ]
       },
       "properties": {
-        "id": 2772,
+        "id": "2772",
+        "id_jardin": 2772,
         "nombre": "Jardín Calle Poniente",
         "pedania": "Garres y Lages",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Garres y Lages | Tipo: Zona Verde | ID: 2772 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2816,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -184,17 +173,16 @@
         ]
       },
       "properties": {
-        "id": 2816,
+        "id": "2816",
+        "id_jardin": 2816,
         "nombre": "Zona Verde Iglesia Alta",
         "pedania": "Garres y Lages",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Garres y Lages | Tipo: Zona Verde | ID: 2816 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3547,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -203,17 +191,16 @@
         ]
       },
       "properties": {
-        "id": 3547,
+        "id": "3547",
+        "id_jardin": 3547,
         "nombre": "Pipican Virgen del Mar",
         "pedania": "Garres y Lages",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Garres y Lages | Tipo: Zona Verde | ID: 3547 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2400,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -222,17 +209,16 @@
         ]
       },
       "properties": {
-        "id": 2400,
+        "id": "2400",
+        "id_jardin": 2400,
         "nombre": "Jardín Directora Virginia Martínez",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 2400 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2496,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -241,17 +227,16 @@
         ]
       },
       "properties": {
-        "id": 2496,
+        "id": "2496",
+        "id_jardin": 2496,
         "nombre": "Jardín Alberca de Salamanca",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 2496 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2500,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -260,17 +245,16 @@
         ]
       },
       "properties": {
-        "id": 2500,
+        "id": "2500",
+        "id_jardin": 2500,
         "nombre": "Jardín Los Almendros",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 2500 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3759,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -279,17 +263,16 @@
         ]
       },
       "properties": {
-        "id": 3759,
+        "id": "3759",
+        "id_jardin": 3759,
         "nombre": "Zeca Montevida",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 3759 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 4242,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -298,17 +281,16 @@
         ]
       },
       "properties": {
-        "id": 4242,
+        "id": "4242",
+        "id_jardin": 4242,
         "nombre": "Jardín Nueva Alberca",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 4242 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3550,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -317,17 +299,16 @@
         ]
       },
       "properties": {
-        "id": 3550,
+        "id": "3550",
+        "id_jardin": 3550,
         "nombre": "Malecón-Bajo Puente Autovía",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 3550 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 3550,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -336,17 +317,16 @@
         ]
       },
       "properties": {
-        "id": 3550,
+        "id": "3550_2",
+        "id_jardin": 3550,
         "nombre": "Malecón-Bajo Puente Autovía",
         "pedania": "La Alberca",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: La Alberca | Tipo: Zona Verde | ID: 3550 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2707,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -355,17 +335,16 @@
         ]
       },
       "properties": {
-        "id": 2707,
+        "id": "2707",
+        "id_jardin": 2707,
         "nombre": "Jardín Avenida Juan Carlos I - Calle Cruz",
         "pedania": "Santo Ángel",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2707 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2710,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -374,17 +353,16 @@
         ]
       },
       "properties": {
-        "id": 2710,
+        "id": "2710",
+        "id_jardin": 2710,
         "nombre": "Jardín del Charco",
         "pedania": "Santo Ángel",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2710 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2714,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -393,17 +371,16 @@
         ]
       },
       "properties": {
-        "id": 2714,
+        "id": "2714",
+        "id_jardin": 2714,
         "nombre": "Jardín de los Naranjos",
         "pedania": "Santo Ángel",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2714 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2716,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -412,17 +389,16 @@
         ]
       },
       "properties": {
-        "id": 2716,
+        "id": "2716",
+        "id_jardin": 2716,
         "nombre": "Zona Verde Calle La Luz",
         "pedania": "Santo Ángel",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2716 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2717,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -431,17 +407,16 @@
         ]
       },
       "properties": {
-        "id": 2717,
+        "id": "2717",
+        "id_jardin": 2717,
         "nombre": "Jardín Avenida Juan Carlos I - Calle Moreras",
         "pedania": "Santo Ángel",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2717 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2725,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -450,17 +425,16 @@
         ]
       },
       "properties": {
-        "id": 2725,
+        "id": "2725",
+        "id_jardin": 2725,
         "nombre": "Jardín Calle Sauce",
         "pedania": "Santo Ángel",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Santo Ángel | Tipo: Zona Verde | ID: 2725 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 2570,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -469,17 +443,16 @@
         ]
       },
       "properties": {
-        "id": 2570,
+        "id": "2570",
+        "id_jardin": 2570,
         "nombre": "Jardín Montegrande",
         "pedania": "Torreagüera",
         "tipo": "Zona Verde",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Torreagüera | Tipo: Zona Verde | ID: 2570 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     },
     {
       "type": "Feature",
-      "id": 4079,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -488,12 +461,12 @@
         ]
       },
       "properties": {
-        "id": 4079,
+        "id": "4079",
+        "id_jardin": 4079,
         "nombre": "Campo de Fútbol",
         "pedania": "Torreagüera",
         "tipo": "Zonas Verdes Otros Servicios",
-        "zona": "Ladera_Monte_Sur",
-        "description": "Pedanía: Torreagüera | Tipo: Zonas Verdes Otros Servicios | ID: 4079 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Ladera_Monte_Sur"
       }
     }
   ]

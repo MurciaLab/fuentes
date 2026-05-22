@@ -7,7 +7,8 @@ const Sheet = (() => {
     funciona: 'Funciona',
     perro: 'Para perros',
     no_funciona: 'No funciona',
-    no_encontrada: 'No encontrada'
+    no_encontrada: 'No encontrada',
+    propuesta: 'Propuesta nueva'
   };
 
   function el() { return document.getElementById('sheet'); }
@@ -59,6 +60,17 @@ const Sheet = (() => {
     node.setAttribute('aria-hidden', 'true');
   }
 
+  // Construye el subtítulo: para propuestas no hay pedanía/zona, así que
+  // mostramos "Propuesta ciudadana" + fecha de alta si está disponible.
+  function buildSub(props) {
+    if (props.propuesta) {
+      const cuando = props.fecha_alta ? ` · añadida ${RelativeTime.format(props.fecha_alta)}` : '';
+      return `Propuesta ciudadana${cuando}`;
+    }
+    const parts = [props.pedania, props.zona].filter(Boolean).map(escapeHtml);
+    return parts.join(' · ');
+  }
+
   function show(feature, stateInfo) {
     const node = el();
     if (!node) return;
@@ -66,7 +78,8 @@ const Sheet = (() => {
     const props = feature.properties;
     const id = props.id;
     const [lon, lat] = feature.geometry.coordinates;
-    const estado = (stateInfo && stateInfo.estado) || 'pendiente';
+    const estadoEfectivo = (stateInfo && stateInfo.estado)
+      || (props.propuesta ? 'propuesta' : 'pendiente');
 
     const ultimaLinea = stateInfo && stateInfo.fecha
       ? `Última revisión: ${RelativeTime.format(stateInfo.fecha)}`
@@ -76,11 +89,11 @@ const Sheet = (() => {
       `<header class="sheet-header">` +
         `<div>` +
           `<div class="sheet-title">${escapeHtml(props.nombre)}</div>` +
-          `<div class="sheet-sub">${escapeHtml(props.pedania)} · ${escapeHtml(props.zona)}</div>` +
+          `<div class="sheet-sub">${buildSub(props)}</div>` +
         `</div>` +
         `<button type="button" class="sheet-close" aria-label="Cerrar">✕</button>` +
       `</header>` +
-      `<div class="sheet-status">${badge(estado)}</div>` +
+      `<div class="sheet-status">${badge(estadoEfectivo)}</div>` +
       `<p class="sheet-last">${ultimaLinea}</p>` +
       `<div class="sheet-actions">` +
         `<button type="button" class="btn btn-primary" id="btn-revisar">Revisar</button>` +

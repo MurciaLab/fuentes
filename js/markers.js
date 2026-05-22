@@ -1,6 +1,7 @@
-// Iconos SVG inline para los 5 estados. Triple capa de accesibilidad:
-// (1) símbolo distinto, (2) color de fondo, (3) tratamiento del borde.
-// Renderizados como L.divIcon para que sean idénticos en iOS y Android.
+// Iconos SVG inline para los 5 estados + 'propuesta' (fuente añadida por
+// usuario, todavía sin revisar). Triple capa de accesibilidad: (1) símbolo
+// distinto, (2) color de fondo, (3) tratamiento del borde. Renderizados
+// como L.divIcon para que sean idénticos en iOS y Android.
 
 const Markers = (() => {
   const C = CONFIG.COLORS;
@@ -11,7 +12,8 @@ const Markers = (() => {
     funciona: '#064e3b',
     perro: '#78350f',
     no_funciona: '#7f1d1d',
-    no_encontrada: '#1f2937'
+    no_encontrada: '#1f2937',
+    propuesta: '#4c1d95'
   };
 
   // Símbolos en blanco, dibujados sobre un viewBox 36x36, centrados en (18,18).
@@ -30,7 +32,7 @@ const Markers = (() => {
       '<ellipse cx="21" cy="11" rx="1.8" ry="2.4" fill="#fff"/>' +
       '<ellipse cx="10" cy="15" rx="1.8" ry="2.4" fill="#fff"/>' +
       '<ellipse cx="26" cy="15" rx="1.8" ry="2.4" fill="#fff"/>',
-    // Cruz
+    // Cruz diagonal
     no_funciona:
       '<path d="M12 12 L24 24 M24 12 L12 24" stroke="#fff" stroke-width="3.2" ' +
       'stroke-linecap="round"/>',
@@ -38,7 +40,11 @@ const Markers = (() => {
     no_encontrada:
       '<path d="M14 14 C14 10, 22 10, 22 14 C22 17, 18 17, 18 21" fill="none" ' +
       'stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>' +
-      '<circle cx="18" cy="25.5" r="1.8" fill="#fff"/>'
+      '<circle cx="18" cy="25.5" r="1.8" fill="#fff"/>',
+    // Más (signo +): fuente recién añadida por la ciudadanía
+    propuesta:
+      '<path d="M18 10 L18 26 M10 18 L26 18" stroke="#fff" stroke-width="3.8" ' +
+      'stroke-linecap="round"/>'
   };
 
   // Anillo coloreado con la variación de borde por estado.
@@ -65,6 +71,8 @@ const Markers = (() => {
           `<circle cx="18" cy="18" r="14" fill="${c}" stroke="${b}" stroke-width="2" ` +
           `stroke-dasharray="3 2"/>`
         );
+      case 'propuesta':
+        return `<circle cx="18" cy="18" r="14" fill="${c}" stroke="${b}" stroke-width="2.5"/>`;
       default:
         return ring('pendiente');
     }
@@ -75,7 +83,8 @@ const Markers = (() => {
     funciona: 'funciona',
     perro: 'para perros',
     no_funciona: 'no funciona',
-    no_encontrada: 'no encontrada'
+    no_encontrada: 'no encontrada',
+    propuesta: 'propuesta ciudadana'
   };
 
   function svgString(estado) {

@@ -1,6 +1,9 @@
 // Cálculo y render del progreso por zona.
 // Render compacto: un botón "Progreso X%" en el banner + un panel desplegable
 // con el desglose por zona, gestionado desde app.js.
+//
+// Las propuestas ciudadanas (properties.propuesta === true) se excluyen
+// del cómputo: el proyecto solo mide la revisión del conjunto original.
 
 const Progress = (() => {
   function capitalize(s) {
@@ -13,6 +16,8 @@ const Progress = (() => {
     let totalAll = 0;
     let revAll = 0;
     for (const f of features) {
+      // Saltamos propuestas ciudadanas — no forman parte del objetivo.
+      if (f.properties && f.properties.propuesta) continue;
       const zona = (f.properties && f.properties.zona) || 'sin zona';
       const id = f.properties && f.properties.id;
       if (!byZona.has(zona)) byZona.set(zona, { total: 0, revisadas: 0 });

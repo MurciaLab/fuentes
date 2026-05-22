@@ -1,10 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "Murcia_Sur_Rio",
   "features": [
     {
       "type": "Feature",
-      "id": 606,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,17 +11,16 @@
         ]
       },
       "properties": {
-        "id": 606,
+        "id": "606",
+        "id_jardin": 606,
         "nombre": "Jardín Pintor Mariano Ballester",
         "pedania": "Buenos Aires",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Buenos Aires | Tipo: Zona Verde | ID: 606 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 536,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,17 +29,16 @@
         ]
       },
       "properties": {
-        "id": 536,
+        "id": "536",
+        "id_jardin": 536,
         "nombre": "Cuartel de Artillería",
         "pedania": "El Carmen",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: El Carmen | Tipo: Zona Verde | ID: 536 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 609,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,17 +47,16 @@
         ]
       },
       "properties": {
-        "id": 609,
+        "id": "609",
+        "id_jardin": 609,
         "nombre": "Jardín Callejón del Conde",
         "pedania": "El Carmen",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: El Carmen | Tipo: Zona Verde | ID: 609 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 652,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -70,17 +65,16 @@
         ]
       },
       "properties": {
-        "id": 652,
+        "id": "652",
+        "id_jardin": 652,
         "nombre": "Paseo Fotógrafo Verdú",
         "pedania": "El Carmen",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: El Carmen | Tipo: Zona Verde | ID: 652 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 4292,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,17 +83,16 @@
         ]
       },
       "properties": {
-        "id": 4292,
+        "id": "4292",
+        "id_jardin": 4292,
         "nombre": "Jardín Pintor Rosique",
         "pedania": "Infante Juan Manuel",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 4292 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 577,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -108,17 +101,16 @@
         ]
       },
       "properties": {
-        "id": 577,
+        "id": "577",
+        "id_jardin": 577,
         "nombre": "Jardín Jorge Manrique",
         "pedania": "Infante Juan Manuel",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 577 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 588,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -127,17 +119,16 @@
         ]
       },
       "properties": {
-        "id": 588,
+        "id": "588",
+        "id_jardin": 588,
         "nombre": "Jardín del Lago",
         "pedania": "Infante Juan Manuel",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 588 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 588,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,17 +137,16 @@
         ]
       },
       "properties": {
-        "id": 588,
+        "id": "588_2",
+        "id_jardin": 588,
         "nombre": "Jardín del Lago",
         "pedania": "Infante Juan Manuel",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Infante Juan Manuel | Tipo: Zona Verde | ID: 588 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 2932,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -165,17 +155,16 @@
         ]
       },
       "properties": {
-        "id": 2932,
+        "id": "2932",
+        "id_jardin": 2932,
         "nombre": "Zona Verde Calle Periodista Julia Otero",
         "pedania": "Los Dolores",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Los Dolores | Tipo: Zona Verde | ID: 2932 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 4305,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -184,36 +173,16 @@
         ]
       },
       "properties": {
-        "id": 4305,
+        "id": "4305",
+        "id_jardin": 4305,
         "nombre": "Jardín Calle Constitución",
         "pedania": "Los Dolores",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Los Dolores | Tipo: Zona Verde | ID: 4305 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.121769,
-          37.977112
-        ]
-      },
-      "properties": {
-        "id": 602,
-        "nombre": "Jardín del Sauce",
-        "pedania": "Ntra. Sra. Fuensanta",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 602,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -222,36 +191,16 @@
         ]
       },
       "properties": {
-        "id": 602,
+        "id": "602",
+        "id_jardin": 602,
         "nombre": "Jardín del Sauce",
         "pedania": "Ntra. Sra. Fuensanta",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.122089,
-          37.976899
-        ]
-      },
-      "properties": {
-        "id": 602,
-        "nombre": "Jardín del Sauce",
-        "pedania": "Ntra. Sra. Fuensanta",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 602,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -260,17 +209,52 @@
         ]
       },
       "properties": {
-        "id": 602,
+        "id": "602_2",
+        "id_jardin": 602,
         "nombre": "Jardín del Sauce",
         "pedania": "Ntra. Sra. Fuensanta",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Ntra. Sra. Fuensanta | Tipo: Zona Verde | ID: 602 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122089,
+          37.976899
+        ]
+      },
+      "properties": {
+        "id": "602_3",
+        "id_jardin": 602,
+        "nombre": "Jardín del Sauce",
+        "pedania": "Ntra. Sra. Fuensanta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.121769,
+          37.977112
+        ]
+      },
+      "properties": {
+        "id": "602_4",
+        "id_jardin": 602,
+        "nombre": "Jardín del Sauce",
+        "pedania": "Ntra. Sra. Fuensanta",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Sur_Rio"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -279,17 +263,16 @@
         ]
       },
       "properties": {
-        "id": 637,
+        "id": "637",
+        "id_jardin": 637,
         "nombre": "Zona Verde Ronda Sur",
         "pedania": "San Benito - Patiño",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: San Benito - Patiño | Tipo: Zona Verde | ID: 637 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     },
     {
       "type": "Feature",
-      "id": 620,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -298,12 +281,12 @@
         ]
       },
       "properties": {
-        "id": 620,
+        "id": "620",
+        "id_jardin": 620,
         "nombre": "Jardín Santa Rosa",
         "pedania": "Santiago el Mayor",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Sur_Rio",
-        "description": "Pedanía: Santiago el Mayor | Tipo: Zona Verde | ID: 620 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Sur_Rio"
       }
     }
   ]

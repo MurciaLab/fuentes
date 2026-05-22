@@ -1,10 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "Murcia_Oeste",
   "features": [
     {
       "type": "Feature",
-      "id": 2403,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,17 +11,16 @@
         ]
       },
       "properties": {
-        "id": 2403,
+        "id": "2403",
+        "id_jardin": 2403,
         "nombre": "Jardín Virgen de los Dolores",
         "pedania": "Aljucer",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Aljucer | Tipo: Zona Verde | ID: 2403 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2406,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,17 +29,16 @@
         ]
       },
       "properties": {
-        "id": 2406,
+        "id": "2406",
+        "id_jardin": 2406,
         "nombre": "Jardín Calle del Aire",
         "pedania": "Aljucer",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Aljucer | Tipo: Zona Verde | ID: 2406 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2410,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,17 +47,16 @@
         ]
       },
       "properties": {
-        "id": 2410,
+        "id": "2410",
+        "id_jardin": 2410,
         "nombre": "Jardín Carril del Palmeral",
         "pedania": "Aljucer",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Aljucer | Tipo: Zona Verde | ID: 2410 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2417,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -70,17 +65,16 @@
         ]
       },
       "properties": {
-        "id": 2417,
+        "id": "2417",
+        "id_jardin": 2417,
         "nombre": "Jardín Cronista Carlos Valcárcel",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2417 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2420,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,17 +83,16 @@
         ]
       },
       "properties": {
-        "id": 2420,
+        "id": "2420",
+        "id_jardin": 2420,
         "nombre": "Plaza José María Párraga",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2420 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2421,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -108,17 +101,16 @@
         ]
       },
       "properties": {
-        "id": 2421,
+        "id": "2421",
+        "id_jardin": 2421,
         "nombre": "Jardín Calle San Diego",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2421 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2453,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -127,17 +119,16 @@
         ]
       },
       "properties": {
-        "id": 2453,
+        "id": "2453",
+        "id_jardin": 2453,
         "nombre": "Jardín Calle Mayor-San Roque",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2453 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2632,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,17 +137,16 @@
         ]
       },
       "properties": {
-        "id": 2632,
+        "id": "2632",
+        "id_jardin": 2632,
         "nombre": "Parque Don Jaime Sotos",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2632 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2632,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -165,17 +155,16 @@
         ]
       },
       "properties": {
-        "id": 2632,
+        "id": "2632_2",
+        "id_jardin": 2632,
         "nombre": "Parque Don Jaime Sotos",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2632 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2671,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -184,17 +173,16 @@
         ]
       },
       "properties": {
-        "id": 2671,
+        "id": "2671",
+        "id_jardin": 2671,
         "nombre": "Pepe Pintado",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 2671 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3529,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -203,17 +191,16 @@
         ]
       },
       "properties": {
-        "id": 3529,
+        "id": "3529",
+        "id_jardin": 3529,
         "nombre": "Plaza Pintor Almela Costa",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 3529 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 4543,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -222,17 +209,16 @@
         ]
       },
       "properties": {
-        "id": 4543,
+        "id": "4543",
+        "id_jardin": 4543,
         "nombre": "Zona Verde Carretera Alberca",
         "pedania": "El Palmar",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: El Palmar | Tipo: Zona Verde | ID: 4543 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2659,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -241,17 +227,16 @@
         ]
       },
       "properties": {
-        "id": 2659,
+        "id": "2659",
+        "id_jardin": 2659,
         "nombre": "Jardín Joaquín García Cabezos",
         "pedania": "Era Alta",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Era Alta | Tipo: Zona Verde | ID: 2659 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2664,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -260,17 +245,16 @@
         ]
       },
       "properties": {
-        "id": 2664,
+        "id": "2664",
+        "id_jardin": 2664,
         "nombre": "Jardín Príncipe Felipe",
         "pedania": "Era Alta",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Era Alta | Tipo: Zona Verde | ID: 2664 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2898,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -279,17 +263,16 @@
         ]
       },
       "properties": {
-        "id": 2898,
+        "id": "2898",
+        "id_jardin": 2898,
         "nombre": "Jardín La Tirolina",
         "pedania": "Guadalupe",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Guadalupe | Tipo: Zona Verde | ID: 2898 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2901,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -298,17 +281,16 @@
         ]
       },
       "properties": {
-        "id": 2901,
+        "id": "2901",
+        "id_jardin": 2901,
         "nombre": "Jardín de la Libertad",
         "pedania": "Guadalupe",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Guadalupe | Tipo: Zona Verde | ID: 2901 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3538,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -317,17 +299,16 @@
         ]
       },
       "properties": {
-        "id": 3538,
+        "id": "3538",
+        "id_jardin": 3538,
         "nombre": "Zona Verde Reyes Católicos",
         "pedania": "Guadalupe",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Guadalupe | Tipo: Zona Verde | ID: 3538 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2938,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -336,17 +317,16 @@
         ]
       },
       "properties": {
-        "id": 2938,
+        "id": "2938",
+        "id_jardin": 2938,
         "nombre": "Plaza de la Ermita",
         "pedania": "Javalí Nuevo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 2938 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2938,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -355,17 +335,16 @@
         ]
       },
       "properties": {
-        "id": 2938,
+        "id": "2938_2",
+        "id_jardin": 2938,
         "nombre": "Plaza de la Ermita",
         "pedania": "Javalí Nuevo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 2938 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2955,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -374,17 +353,16 @@
         ]
       },
       "properties": {
-        "id": 2955,
+        "id": "2955",
+        "id_jardin": 2955,
         "nombre": "Jardín Constitución",
         "pedania": "Javalí Nuevo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 2955 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3793,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -393,17 +371,16 @@
         ]
       },
       "properties": {
-        "id": 3793,
+        "id": "3793",
+        "id_jardin": 3793,
         "nombre": "Contraparada Zona Exterior-Sur",
         "pedania": "Javalí Nuevo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 3793 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3794,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -412,17 +389,16 @@
         ]
       },
       "properties": {
-        "id": 3794,
+        "id": "3794",
+        "id_jardin": 3794,
         "nombre": "Contraparada Mirador-Zona Infantil",
         "pedania": "Javalí Nuevo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 3794 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3794,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -431,17 +407,16 @@
         ]
       },
       "properties": {
-        "id": 3794,
+        "id": "3794_2",
+        "id_jardin": 3794,
         "nombre": "Contraparada Mirador-Zona Infantil",
         "pedania": "Javalí Nuevo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Nuevo | Tipo: Zona Verde | ID: 3794 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2826,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -450,17 +425,16 @@
         ]
       },
       "properties": {
-        "id": 2826,
+        "id": "2826",
+        "id_jardin": 2826,
         "nombre": "Zona Verde Calle Constitución",
         "pedania": "Javalí Viejo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Viejo | Tipo: Zona Verde | ID: 2826 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3517,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -469,17 +443,16 @@
         ]
       },
       "properties": {
-        "id": 3517,
+        "id": "3517",
+        "id_jardin": 3517,
         "nombre": "Paraje Azud de Contraparada",
         "pedania": "Javalí Viejo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Viejo | Tipo: Zona Verde | ID: 3517 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3736,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -488,17 +461,16 @@
         ]
       },
       "properties": {
-        "id": 3736,
+        "id": "3736",
+        "id_jardin": 3736,
         "nombre": "Contraparada Laterales y Zona Boscosa",
         "pedania": "Javalí Viejo",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Javalí Viejo | Tipo: Zona Verde | ID: 3736 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3564,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -507,17 +479,16 @@
         ]
       },
       "properties": {
-        "id": 3564,
+        "id": "3564",
+        "id_jardin": 3564,
         "nombre": "Pistas Deportivas Colegio",
         "pedania": "La Raya",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: La Raya | Tipo: Zona Verde | ID: 3564 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2633,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -526,17 +497,16 @@
         ]
       },
       "properties": {
-        "id": 2633,
+        "id": "2633",
+        "id_jardin": 2633,
         "nombre": "Plaza Iglesia",
         "pedania": "Nonduermas",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 2633 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2639,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -545,17 +515,16 @@
         ]
       },
       "properties": {
-        "id": 2639,
+        "id": "2639",
+        "id_jardin": 2639,
         "nombre": "Jardín Escultor Francisco Salzillo",
         "pedania": "Nonduermas",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 2639 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2640,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -564,17 +533,16 @@
         ]
       },
       "properties": {
-        "id": 2640,
+        "id": "2640",
+        "id_jardin": 2640,
         "nombre": "Plaza Gregorio Pérez Rodríguez",
         "pedania": "Nonduermas",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 2640 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 4886,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -583,17 +551,16 @@
         ]
       },
       "properties": {
-        "id": 4886,
+        "id": "4886",
+        "id_jardin": 4886,
         "nombre": "Zona Verde Ermita de Burgos",
         "pedania": "Nonduermas",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Nonduermas | Tipo: Zona Verde | ID: 4886 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2519,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -602,17 +569,16 @@
         ]
       },
       "properties": {
-        "id": 2519,
+        "id": "2519",
+        "id_jardin": 2519,
         "nombre": "Plaza Iglesia",
         "pedania": "Rincón de Beniscornia",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Rincón de Beniscornia | Tipo: Zona Verde | ID: 2519 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2521,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -621,17 +587,16 @@
         ]
       },
       "properties": {
-        "id": 2521,
+        "id": "2521",
+        "id_jardin": 2521,
         "nombre": "Jardín Molino del Batán",
         "pedania": "Rincón de Beniscornia",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: Rincón de Beniscornia | Tipo: Zona Verde | ID: 2521 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2001,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -640,36 +605,16 @@
         ]
       },
       "properties": {
-        "id": 2001,
+        "id": "2001",
+        "id_jardin": 2001,
         "nombre": "Avenida San Ginés",
         "pedania": "San Ginés",
         "tipo": "Arbolado Viario",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: San Ginés | Tipo: Arbolado Viario | ID: 2001 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2488,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.177314,
-          37.95496
-        ]
-      },
-      "properties": {
-        "id": 2488,
-        "nombre": "Zona Verde Calle Escuelas",
-        "pedania": "San Ginés",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: San Ginés | Tipo: Zona Verde | ID: 2488 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2488,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -678,17 +623,34 @@
         ]
       },
       "properties": {
-        "id": 2488,
+        "id": "2488",
+        "id_jardin": 2488,
         "nombre": "Zona Verde Calle Escuelas",
         "pedania": "San Ginés",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: San Ginés | Tipo: Zona Verde | ID: 2488 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 2511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.177314,
+          37.95496
+        ]
+      },
+      "properties": {
+        "id": "2488_2",
+        "id_jardin": 2488,
+        "nombre": "Zona Verde Calle Escuelas",
+        "pedania": "San Ginés",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Oeste"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -697,17 +659,16 @@
         ]
       },
       "properties": {
-        "id": 2511,
+        "id": "2511",
+        "id_jardin": 2511,
         "nombre": "Jardín Calle Mayor",
         "pedania": "San Ginés",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: San Ginés | Tipo: Zona Verde | ID: 2511 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     },
     {
       "type": "Feature",
-      "id": 3238,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -716,12 +677,12 @@
         ]
       },
       "properties": {
-        "id": 3238,
+        "id": "3238",
+        "id_jardin": 3238,
         "nombre": "Plaza Ermita",
         "pedania": "San Ginés",
         "tipo": "Arbolado Viario",
-        "zona": "Murcia_Oeste",
-        "description": "Pedanía: San Ginés | Tipo: Arbolado Viario | ID: 3238 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Oeste"
       }
     }
   ]

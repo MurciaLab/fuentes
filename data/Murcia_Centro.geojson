@@ -1,10 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "Murcia_Centro",
   "features": [
     {
       "type": "Feature",
-      "id": 225,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -13,17 +11,16 @@
         ]
       },
       "properties": {
-        "id": 225,
+        "id": "225",
+        "id_jardin": 225,
         "nombre": "Jardín Bendame Menor",
         "pedania": "El Ranero",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: El Ranero | Tipo: Zona Verde | ID: 225 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 225,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,17 +29,16 @@
         ]
       },
       "properties": {
-        "id": 225,
+        "id": "225_2",
+        "id_jardin": 225,
         "nombre": "Jardín Bendame Menor",
         "pedania": "El Ranero",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: El Ranero | Tipo: Zona Verde | ID: 225 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 232,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,17 +47,16 @@
         ]
       },
       "properties": {
-        "id": 232,
+        "id": "232",
+        "id_jardin": 232,
         "nombre": "Zona Verde Campo Fútbol",
         "pedania": "El Ranero",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: El Ranero | Tipo: Zona Verde | ID: 232 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 39,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -70,17 +65,16 @@
         ]
       },
       "properties": {
-        "id": 39,
+        "id": "39",
+        "id_jardin": 39,
         "nombre": "Plaza Glorieta de España",
         "pedania": "La Catedral",
         "tipo": "Osmosis Fría",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: La Catedral | Tipo: Osmosis Fría | ID: 39 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 197,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,17 +83,16 @@
         ]
       },
       "properties": {
-        "id": 197,
+        "id": "197",
+        "id_jardin": 197,
         "nombre": "Plaza San Agustín",
         "pedania": "San Andrés",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Andrés | Tipo: Zona Verde | ID: 197 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 200,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -108,36 +101,16 @@
         ]
       },
       "properties": {
-        "id": 200,
+        "id": "200",
+        "id_jardin": 200,
         "nombre": "Jardín Mariano Montesinos",
         "pedania": "San Andrés",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Andrés | Tipo: Zona Verde | ID: 200 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 64,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.134361,
-          37.982785
-        ]
-      },
-      "properties": {
-        "id": 64,
-        "nombre": "Jardín del Malecón",
-        "pedania": "San Antolín",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antolín | Tipo: Zona Verde | ID: 64 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 64,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,17 +119,16 @@
         ]
       },
       "properties": {
-        "id": 64,
+        "id": "64",
+        "id_jardin": 64,
         "nombre": "Jardín del Malecón",
         "pedania": "San Antolín",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antolín | Tipo: Zona Verde | ID: 64 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 64,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -165,17 +137,34 @@
         ]
       },
       "properties": {
-        "id": 64,
+        "id": "64_2",
+        "id_jardin": 64,
         "nombre": "Jardín del Malecón",
         "pedania": "San Antolín",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antolín | Tipo: Zona Verde | ID: 64 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134361,
+          37.982785
+        ]
+      },
+      "properties": {
+        "id": "64_3",
+        "id_jardin": 64,
+        "nombre": "Jardín del Malecón",
+        "pedania": "San Antolín",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -184,17 +173,16 @@
         ]
       },
       "properties": {
-        "id": 182,
+        "id": "182",
+        "id_jardin": 182,
         "nombre": "Jardín Huerto Manu",
         "pedania": "San Antón",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 182 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 182,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -203,17 +191,16 @@
         ]
       },
       "properties": {
-        "id": 182,
+        "id": "182_2",
+        "id_jardin": 182,
         "nombre": "Jardín Huerto Manu",
         "pedania": "San Antón",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 182 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 188,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -222,17 +209,16 @@
         ]
       },
       "properties": {
-        "id": 188,
+        "id": "188",
+        "id_jardin": 188,
         "nombre": "Jardín El Salitre",
         "pedania": "San Antón",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 188 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 188,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -241,17 +227,16 @@
         ]
       },
       "properties": {
-        "id": 188,
+        "id": "188_2",
+        "id_jardin": 188,
         "nombre": "Jardín El Salitre",
         "pedania": "San Antón",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antón | Tipo: Zona Verde | ID: 188 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 203,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -260,55 +245,16 @@
         ]
       },
       "properties": {
-        "id": 203,
+        "id": "203",
+        "id_jardin": 203,
         "nombre": "Jardín de la Seda",
         "pedania": "San Antón",
         "tipo": "Osmosis Fría",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Antón | Tipo: Osmosis Fría | ID: 203 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 213,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.145113,
-          37.991674
-        ]
-      },
-      "properties": {
-        "id": 213,
-        "nombre": "Zona Verde Ronda Oeste",
-        "pedania": "San Basilio",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 213,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.143427,
-          37.992283
-        ]
-      },
-      "properties": {
-        "id": 213,
-        "nombre": "Zona Verde Ronda Oeste",
-        "pedania": "San Basilio",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 213,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -317,17 +263,16 @@
         ]
       },
       "properties": {
-        "id": 213,
+        "id": "213",
+        "id_jardin": 213,
         "nombre": "Zona Verde Ronda Oeste",
         "pedania": "San Basilio",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 213,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -336,17 +281,52 @@
         ]
       },
       "properties": {
-        "id": 213,
+        "id": "213_2",
+        "id_jardin": 213,
         "nombre": "Zona Verde Ronda Oeste",
         "pedania": "San Basilio",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 213 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145113,
+          37.991674
+        ]
+      },
+      "properties": {
+        "id": "213_3",
+        "id_jardin": 213,
+        "nombre": "Zona Verde Ronda Oeste",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.143427,
+          37.992283
+        ]
+      },
+      "properties": {
+        "id": "213_4",
+        "id_jardin": 213,
+        "nombre": "Zona Verde Ronda Oeste",
+        "pedania": "San Basilio",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -355,17 +335,16 @@
         ]
       },
       "properties": {
-        "id": 221,
+        "id": "221",
+        "id_jardin": 221,
         "nombre": "Jardín Alcalde José Méndez Espino",
         "pedania": "San Basilio",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 221 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 250,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -374,17 +353,16 @@
         ]
       },
       "properties": {
-        "id": 250,
+        "id": "250",
+        "id_jardin": 250,
         "nombre": "Jardín San Basilio",
         "pedania": "San Basilio",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Basilio | Tipo: Zona Verde | ID: 250 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 33,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -393,17 +371,16 @@
         ]
       },
       "properties": {
-        "id": 33,
+        "id": "33",
+        "id_jardin": 33,
         "nombre": "Plaza Jesucristo Resucitado",
         "pedania": "San Juan",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Juan | Tipo: Zona Verde | ID: 33 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 52,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -412,17 +389,16 @@
         ]
       },
       "properties": {
-        "id": 52,
+        "id": "52",
+        "id_jardin": 52,
         "nombre": "Jardín Chino",
         "pedania": "San Juan",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Juan | Tipo: Zona Verde | ID: 52 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 191,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -431,17 +407,16 @@
         ]
       },
       "properties": {
-        "id": 191,
+        "id": "191",
+        "id_jardin": 191,
         "nombre": "Plaza Julián Romea",
         "pedania": "San Miguel",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Miguel | Tipo: Zona Verde | ID: 191 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 191,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -450,36 +425,16 @@
         ]
       },
       "properties": {
-        "id": 191,
+        "id": "191_2",
+        "id_jardin": 191,
         "nombre": "Plaza Julián Romea",
         "pedania": "San Miguel",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Miguel | Tipo: Zona Verde | ID: 191 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 193,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.134847,
-          37.986122
-        ]
-      },
-      "properties": {
-        "id": 193,
-        "nombre": "Plaza Mayor",
-        "pedania": "San Nicolás",
-        "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Nicolás | Tipo: Zona Verde | ID: 193 | Revisar: AÑADIR_LINK_FORMULARIO"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 193,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -488,17 +443,34 @@
         ]
       },
       "properties": {
-        "id": 193,
+        "id": "193",
+        "id_jardin": 193,
         "nombre": "Plaza Mayor",
         "pedania": "San Nicolás",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: San Nicolás | Tipo: Zona Verde | ID: 193 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 1504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.134847,
+          37.986122
+        ]
+      },
+      "properties": {
+        "id": "193_2",
+        "id_jardin": 193,
+        "nombre": "Plaza Mayor",
+        "pedania": "San Nicolás",
+        "tipo": "Zona Verde",
+        "zona": "Murcia_Centro"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -507,17 +479,16 @@
         ]
       },
       "properties": {
-        "id": 1504,
+        "id": "1504",
+        "id_jardin": 1504,
         "nombre": "Plaza de la Trinidad",
         "pedania": "Sta. Eulalia",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: Sta. Eulalia | Tipo: Zona Verde | ID: 1504 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 48,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -526,17 +497,16 @@
         ]
       },
       "properties": {
-        "id": 48,
+        "id": "48",
+        "id_jardin": 48,
         "nombre": "Plaza Santa Eulalia",
         "pedania": "Sta. Eulalia",
         "tipo": "Zona Verde",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: Sta. Eulalia | Tipo: Zona Verde | ID: 48 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     },
     {
       "type": "Feature",
-      "id": 2516,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -545,12 +515,12 @@
         ]
       },
       "properties": {
-        "id": 2516,
+        "id": "2516",
+        "id_jardin": 2516,
         "nombre": "Jardín de Plaza Circular",
         "pedania": "Plaza Circular",
         "tipo": "Osmosis Fría",
-        "zona": "Murcia_Centro",
-        "description": "Pedanía: Plaza Circular | Tipo: Osmosis Fría | ID: 2516 | Revisar: AÑADIR_LINK_FORMULARIO"
+        "zona": "Murcia_Centro"
       }
     }
   ]

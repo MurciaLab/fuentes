@@ -113,6 +113,67 @@ const App = (() => {
     console.log('Estado actualizado:', currentStates);
   }
 
+  // ------------------------------------------------------------------
+  // Añadir fuente nueva
+  // ------------------------------------------------------------------
+
+  // Distancia ortodrómica en metros (Haversine). Suficientemente precisa a
+  // la escala que nos interesa (decenas de metros).
+  function distanciaMetros(lat1, lon1, lat2, lon2) {
+    const R = 6371000;
+    const toRad = (d) => d * Math.PI / 180;
+    const dLat = toRad(lat2 - lat1);
+    const dLon = toRad(lon2 - lon1);
+    const a = Math.sin(dLat / 2) ** 2 +
+              Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+              Math.sin(dLon / 2) ** 2;
+    return 2 * R * Math.asin(Math.sqrt(a));
+  }
+
+  // Busca la fuente visible más cercana al punto dado dentro de
+  // CONFIG.DUPLICADO_RADIO_M. Devuelve { feature, dist } o null.
+  function fuenteCercana(lat, lon) {
+    const radio = CONFIG.DUPLICADO_RADIO_M || 25;
+    const features = MapView.getVisibleFeatures();
+    let mejor = null;
+    for (const f of features) {
+      if (!f.geometry || !f.geometry.coordinates) continue;
+      const [flon, flat] = f.geometry.coordinates;
+      const d = distanciaMetros(lat, lon, flat, flon);
+      if (d <= radio && (!mejor || d < mejor.dist)) {
+        mejor = { feature: f, dist: d };
+      }
+    }
+    return mejor;
+  }
+
+  function handleAddFuente(btn) {
+    MapView.requestPosition({
+      onPending: () => { btn.disabled = true; Toast.show('Obteniendo tu ubicación…'); },
+      onError: (msg) => {
+        btn.disabled = false;
+        // GPS obligatorio: si falla, no se abre el form.
+        Toast.show(msg + '. Es obligatoria para añadir una fuente.');
+      },
+      onSuccess: (pos) => {
+        btn.disabled = false;
+        const lat = pos.coords.latitude;
+        const lon = pos.coords.longitude;
+        const accuracy = pos.coords.accuracy;
+        const cercana = fuenteCercana(lat, lon);
+        if (cercana) {
+          const nombre = (cercana.feature.properties && cercana.feature.properties.nombre) || 'otra fuente';
+          const ok = window.confirm(
+            `Parece que ya existe una fuente cerca (${nombre}, a ${Math.round(cercana.dist)} m).\n\n` +
+            '¿Quieres continuar y añadir una nueva igualmente?'
+          );
+          if (!ok) return;
+        }
+        Form.openNuevaFuente({ lat: lat, lon: lon, accuracy: accuracy });
+      }
+    });
+  }
+
   async function init() {
     await MapView.init('map');
 
@@ -167,6 +228,16 @@ const App = (() => {
         onError: (msg) => { ubiBtn.disabled = false; Toast.show(msg); }
       });
     });
+
+    // Botón "Añadir fuente": pide GPS (obligatorio), comprueba duplicado,
+    // abre el Form independiente pre-rellenado.
+    const addBtn = document.getElementById('btn-add-fuente');
+    if (addBtn) {
+      addBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        handleAddFuente(addBtn);
+      });
+    }
 
     // Render inicial del progreso con las capas activadas.
     refreshProgress(progressLabel, progressDetail);
